@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Electrogenomics-Group
+title: Electrogenomics Group
 subtitle: 
-description: 
+description: The “Electrogenomics” group was established in 2015 by Professors Munroe, Lambiase and Tinker. This is a collaboration between the William Harvey Research Centre at QMUL and UCL’s Institute of Cardiovascular Science. We joined forces in a broad scale attempt to unravel the electrical and genetic causes of cardiovascular mortality. The team includes world-leading experts in cardiac electrophysiology (Prof. Andy Tinker, QMUL and Prof. Pier Lambiase UCL), genetics (Prof. Patricia Munroe, QMUL) and biomedical engineering (Dr. Michele Orini, UCL), with talented research fellows and PhD students with bioengineering, clinical and genetics training.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -9,11 +9,11 @@ proofer: false
 # site social media and other links
 links:
   email: t.kaplan@qmul.ac.uk
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  #orcid: 0000-0001-8713-9213
+  #google-scholar: ETJoidYAAAAJ
   github: Electrogenomics-Group
-  twitter: Electrogenomics-Group
-  youtube: Electrogenomics-Group
+  #twitter: Electrogenomics-Group
+  #youtube: Electrogenomics-Group
 
 ### jekyll settings
 
