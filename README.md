@@ -1,6 +1,9 @@
 
-# Electrogenomics-GroupDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Electrogenomics-Group
 
-Visit **[electrogenomics-group.github.io](https://electrogenomics-group.github.io)** 🚀
+Website: **[electrogenomics-group.github.io](https://electrogenomics-group.github.io)** 🚀
+
+Legacy website: **[qmul.ac.uk/whri/research/electrogenomics-group/](https://www.qmul.ac.uk/whri/research/electrogenomics-group/)** 
+
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
