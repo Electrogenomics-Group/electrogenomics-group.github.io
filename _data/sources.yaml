@@ -1,23 +1,59 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+- id: doi:10.1109/access.2020.3012494
+- id: doi:10.1038/s41598-019-45703-0
+- id: doi:10.3389/fgene.2021.569323
+- id: doi:10.1136/heartjnl-2017-311657
+- id: doi:10.1016/j.jacc.2019.08.1030
+- id: doi:10.1038/s41467-020-15706-x
+- id: doi:10.22489/cinc.2022.229
+- id: doi:10.22489/cinc.2022.226
+  title: Association between photoplethysmography pulse upslope and cardiovascular
+    events in over 170,000 UK Biobank participants
+  authors:
+  - Michele Orini
+  - Stefan van Duijvenboden
+  - Andrew Tinker
+  - Patricia Munroe
+  - Pier Lambiase
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1371/journal.pone.0183732
+- id: doi:10.1038/s41598-023-45988-2
+- id: doi:10.22489/cinc.2023.178
+- id: doi:10.1093/eurheartj/ehad655.2912
+- id: doi:10.1093/ehjdh/ztad007
+- id: doi:10.1186/s13059-018-1457-6
+- id: doi:10.1038/s41467-018-04148-1
+- id: doi:10.22489/cinc.2018.039
+- id: doi:10.1161/circep.119.007549
+- id: doi:10.1016/j.ajhg.2020.04.009
+- id: doi:10.22489/cinc.2020.402
+- id: doi:10.22489/cinc.2020.478
+- id: doi:10.1177/20480040211023664
+- id: doi:10.1093/function/zqaa038
+- id: doi:10.1161/circgen.121.003441
+- id: doi:10.1161/jaha.121.025897
+- id: doi:10.3390/computers10050060
+- id: doi:10.1016/j.ijcard.2017.03.094
+- id: doi:10.1093/hmg/ddx113
+- id: doi:10.1161/circgen.119.002774
+- id: doi:10.1093/hmg/ddab197
+- id: doi:10.1161/circulationaha.123.064633
+- id: doi:10.1161/circgen.119.002874
+- id: doi:10.1038/s41467-022-32821-z
+- id: doi:10.1161/circgen.120.003231
+- id: doi:10.1016/j.bspc.2020.102305
+- id: doi:10.1038/s41467-023-36997-w
+- id: doi:10.1038/s41431-023-01338-4
+  title: Discovery of rare variants associated with resting heart rate
+  authors:
+  - Julia Ramirez
+  - Stefan van Duijvenboden
+  - Lahiru Thomas Sooriyabandara
+  - Andrew Tinker
+  - Patricia Munroe
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1109/ICTAI50040.2020.00145
+- id: doi:10.22489/CinC.2020.402
+- id: doi:10.22489/CinC.2020.478
+- id: doi:10.1161/CIRCULATIONAHA.123.064633 
+- id: doi:10.22489/CinC.2020.481
+

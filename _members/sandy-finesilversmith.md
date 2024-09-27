@@ -1,10 +1,13 @@
 ---
-name: John Doe
+name: Sandy FinesilverSmith
 image: images/photo.jpg
-role: phd
-group: alum
+description: Data Scientist
+affiliation: WHRI, QMUL, UK
+role:
+group:
 links:
-  github: john-doe
+  email:
+  twitter:
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

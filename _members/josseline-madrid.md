@@ -1,11 +1,13 @@
 ---
-name: Sarah Johnson
+name: Josseline Madrid
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: PhD Student
+affiliation: I3A, Zaragoza, Spain
+role:
+group:
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email:
+  twitter:
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

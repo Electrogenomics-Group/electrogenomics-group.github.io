@@ -1,247 +1,1337 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1109/access.2020.3012494
+  title: Real Time Non-Invasive Hemodynamic Assessment of Ventricular Tachycardia
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
+  - Tudor Besleaga
+  - Pier D. Lambiase
+  - Adam J. Graham
+  - Andreas Demosthenous
+  - Michele Orini
+  publisher: IEEE Access
   date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  link: https://doi.org/g5xbkk
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1038/s41598-019-45703-0
+  title: Genome-wide association study identifies loci for arterial stiffness index
+    in 127,121 UK Biobank participants
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Kenneth Fung
+  - "Julia Ram\xEDrez"
+  - Helen R. Warren
+  - Nay Aung
+  - Aaron M. Lee
+  - Evan Tzanis
+  - Steffen E. Petersen
+  - Patricia B. Munroe
+  publisher: Scientific Reports
+  date: '2019-06-24'
+  link: https://doi.org/ggcphb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fgene.2021.569323
+  title: 'No Clinically Relevant Effect of Heart Rate Increase and Heart Rate Recovery
+    During Exercise on Cardiovascular Disease: A Mendelian Randomization Analysis'
+  authors:
+  - Josephine Mensah-Kane
+  - Amand F. Schmidt
+  - Aroon D. Hingorani
+  - Chris Finan
+  - Yutang Chen
+  - Stefan van Duijvenboden
+  - Michele Orini
+  - Pier D. Lambiase
+  - Andrew Tinker
+  - Eirini Marouli
+  - Patricia B. Munroe
+  - "Julia Ram\xEDrez"
+  publisher: Frontiers in Genetics
+  date: '2021-02-18'
+  link: https://doi.org/gmzmdc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1136/heartjnl-2017-311657
+  title: Heritability of resting heart rate and association with mortality in middle-aged
+    and elderly twins
+  authors:
+  - Patricia B Munroe
+  - Andrew Tinker
+  publisher: Heart
+  date: '2017-06-28'
+  link: https://doi.org/gbhzd9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jacc.2019.08.1030
+  title: Resting Heart Rate and Type 2 Diabetes
+  authors:
+  - Patricia B. Munroe
+  - "Julia Ram\xEDrez"
+  - Stefan van Duijvenboden
+  publisher: Journal of the American College of Cardiology
+  date: '2019-10-01'
+  link: https://doi.org/grtv89
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-020-15706-x
+  title: Multi-ancestry GWAS of the electrocardiographic PR interval identifies 202
+    loci underlying cardiac conduction
+  authors:
+  - Ioanna Ntalla
+  - Lu-Chen Weng
+  - James H. Cartwright
+  - Amelia Weber Hall
+  - Gardar Sveinbjornsson
+  - Nathan R. Tucker
+  - Seung Hoan Choi
+  - Mark D. Chaffin
+  - Carolina Roselli
+  - Michael R. Barnes
+  - Borbala Mifsud
+  - Helen R. Warren
+  - Caroline Hayward
+  - Jonathan Marten
+  - James J. Cranley
+  - Maria Pina Concas
+  - Paolo Gasparini
+  - Thibaud Boutin
+  - Ivana Kolcic
+  - Ozren Polasek
+  - Igor Rudan
+  - Nathalia M. Araujo
+  - Maria Fernanda Lima-Costa
+  - Antonio Luiz P. Ribeiro
+  - Renan P. Souza
+  - Eduardo Tarazona-Santos
+  - Vilmantas Giedraitis
+  - Erik Ingelsson
+  - Anubha Mahajan
+  - Andrew P. Morris
+  - Fabiola Del Greco M
+  - Luisa Foco
+  - "Martin G\xF6gele"
+  - Andrew A. Hicks
+  - James P. Cook
+  - Lars Lind
+  - Cecilia M. Lindgren
+  - "Johan Sundstr\xF6m"
+  - Christopher P. Nelson
+  - Muhammad B. Riaz
+  - Nilesh J. Samani
+  - Gianfranco Sinagra
+  - Sheila Ulivi
+  - "Mika K\xE4h\xF6nen"
+  - Pashupati P. Mishra
+  - Nina Mononen
+  - Kjell Nikus
+  - Mark J. Caulfield
+  - Anna Dominiczak
+  - Sandosh Padmanabhan
+  - May E. Montasser
+  - "Jeff R. O\u2019Connell"
+  - Kathleen Ryan
+  - Alan R. Shuldiner
+  - Stefanie Aeschbacher
+  - David Conen
+  - Lorenz Risch
+  - "S\xE9bastien Th\xE9riault"
+  - "Nina Hutri-K\xE4h\xF6nen"
+  - "Terho Lehtim\xE4ki"
+  - "Leo-Pekka Lyytik\xE4inen"
+  - Olli T. Raitakari
+  - Catriona L. K. Barnes
+  - Harry Campbell
+  - Peter K. Joshi
+  - James F. Wilson
+  - Aaron Isaacs
+  - Jan A. Kors
+  - Cornelia M. van Duijn
+  - Paul L. Huang
+  - Vilmundur Gudnason
+  - Tamara B. Harris
+  - Lenore J. Launer
+  - Albert V. Smith
+  - Erwin P. Bottinger
+  - Ruth J. F. Loos
+  - Girish N. Nadkarni
+  - Michael H. Preuss
+  - Adolfo Correa
+  - Hao Mei
+  - James Wilson
+  - Thomas Meitinger
+  - "Martina M\xFCller-Nurasyid"
+  - Annette Peters
+  - Melanie Waldenberger
+  - Massimo Mangino
+  - Timothy D. Spector
+  - Michiel Rienstra
+  - Yordi J. van de Vegte
+  - Pim van der Harst
+  - Niek Verweij
+  - "Stefan K\xE4\xE4b"
+  - Katharina Schramm
+  - Moritz F. Sinner
+  - Konstantin Strauch
+  - Michael J. Cutler
+  - Diane Fatkin
+  - Barry London
+  - Morten Olesen
+  - Dan M. Roden
+  - M. Benjamin Shoemaker
+  - J. Gustav Smith
+  - Mary L. Biggs
+  - Joshua C. Bis
+  - Jennifer A. Brody
+  - Bruce M. Psaty
+  - Kenneth Rice
+  - Nona Sotoodehnia
+  - Alessandro De Grandi
+  - Christian Fuchsberger
+  - Cristian Pattaro
+  - Peter P. Pramstaller
+  - Ian Ford
+  - J. Wouter Jukema
+  - Peter W. Macfarlane
+  - Stella Trompet
+  - "Marcus D\xF6rr"
+  - Stephan B. Felix
+  - "Uwe V\xF6lker"
+  - Stefan Weiss
+  - Aki S. Havulinna
+  - Antti Jula
+  - "Katri S\xE4\xE4ksj\xE4rvi"
+  - Veikko Salomaa
+  - Xiuqing Guo
+  - Susan R. Heckbert
+  - Henry J. Lin
+  - Jerome I. Rotter
+  - Kent D. Taylor
+  - Jie Yao
+  - "Ren\xE9e de Mutsert"
+  - Arie C. Maan
+  - Dennis O. Mook-Kanamori
+  - Raymond Noordam
+  - Francesco Cucca
+  - Jun Ding
+  - Edward G. Lakatta
+  - Yong Qian
+  - Kirill V. Tarasov
+  - Daniel Levy
+  - Honghuang Lin
+  - Christopher H. Newton-Cheh
+  - Kathryn L. Lunetta
+  - Alison D. Murray
+  - David J. Porteous
+  - Blair H. Smith
+  - Bruno H. Stricker
+  - "Andr\xE9 Uitterlinden"
+  - Marten E. van den Berg
+  - Jeffrey Haessler
+  - Rebecca D. Jackson
+  - Charles Kooperberg
+  - Ulrike Peters
+  - Alexander P. Reiner
+  - Eric A. Whitsel
+  - Alvaro Alonso
+  - Dan E. Arking
+  - Eric Boerwinkle
+  - Georg B. Ehret
+  - Elsayed Z. Soliman
+  - Christy L. Avery
+  - Stephanie M. Gogarten
+  - Kathleen F. Kerr
+  - Cathy C. Laurie
+  - Amanda A. Seyerle
+  - Adrienne Stilp
+  - Solmaz Assa
+  - M. Abdullah Said
+  - M. Yldau van der Ende
+  - Pier D. Lambiase
+  - Michele Orini
+  - Julia Ramirez
+  - Stefan Van Duijvenboden
+  - David O. Arnar
+  - Daniel F. Gudbjartsson
+  - Hilma Holm
+  - Patrick Sulem
+  - Gudmar Thorleifsson
+  - Rosa B. Thorolfsdottir
+  - Unnur Thorsteinsdottir
+  - Emelia J. Benjamin
+  - Andrew Tinker
+  - Kari Stefansson
+  - Patrick T. Ellinor
+  - Yalda Jamshidi
+  - Steven A. Lubitz
+  - Patricia B. Munroe
+  publisher: Nature Communications
+  date: '2020-05-21'
+  link: https://doi.org/ggwvzv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.22489/cinc.2022.229
+  title: Uncoupling Between Heart Rate Variability and Heart Rate During Exercise
+    and Recovery as a Predictor of Cardiovascular Events
+  authors:
+  - '"Michele Orini'
+  - Stefan van Duijvenboden
+  - Julia Ramirez
+  - Andrew Tinker
+  - Patricia Munroe
+  - Pier Lambiase"
+  publisher: Computing in Cardiology Conference (CinC)
+  date: '2022-12-31'
+  link: https://doi.org/g5xbmv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.22489/cinc.2022.226
+  title: Association between photoplethysmography pulse upslope and cardiovascular
+    events in over 170,000 UK Biobank participants
+  authors:
+  - Michele Orini
+  - Stefan van Duijvenboden
+  - Andrew Tinker
+  - Patricia Munroe
+  - Pier Lambiase
+  publisher: Computing in Cardiology Conference (CinC)
+  date: '2022-12-31'
+  link: https://doi.org/g5xbmz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0183732
+  title: Long-term intra-individual reproducibility of heart rate dynamics during
+    exercise and recovery in the UK Biobank cohort
+  authors:
+  - Michele Orini
+  - Andrew Tinker
+  - Patricia B. Munroe
+  - Pier D. Lambiase
+  publisher: PLOS ONE
+  date: '2017-09-05'
+  link: https://doi.org/gbt2g7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-023-45988-2
+  title: Long-term association of ultra-short heart rate variability with cardiovascular
+    events
+  authors:
+  - Michele Orini
+  - Stefan van Duijvenboden
+  - William J. Young
+  - "Julia Ram\xEDrez"
+  - Aled R. Jones
+  - Alun D. Hughes
+  - Andrew Tinker
+  - Patricia B. Munroe
+  - Pier D. Lambiase
+  publisher: Scientific Reports
+  date: '2023-11-03'
+  link: https://doi.org/g5xbm7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.22489/cinc.2023.178
+  title: Ultra-Short Beat-to-Beat Repolarization Variability Predicts Cardiovascular
+    Events in Individuals without Cardiovascular Disease
+  authors:
+  - Michele Orini
+  - Stefan van Duijvenboden
+  - "Julia Ram\xEDrez"
+  - Will Young
+  - Andrew Tinker
+  - Patricia Munroe
+  - Pier Lambiase
+  publisher: Computing in Cardiology Conference (CinC)
+  date: '2023-11-26'
+  link: https://doi.org/g5xbm8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/eurheartj/ehad655.2912
+  title: Ultra-short heart rate variability over 15 seconds is associated with increased
+    long-term risk of cardiovascular disease
+  authors:
+  - M Orini
+  - S Van Duijvenboden
+  - W J Young
+  - J Ramirez
+  - A R Jones
+  - A Tinker
+  - P B Munroe
+  - P D Lambiase
+  publisher: European Heart Journal
+  date: '2023-11-01'
+  link: https://doi.org/g5xbnc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/ehjdh/ztad007
+  title: Premature atrial and ventricular contractions detected on wearable-format
+    electrocardiograms and prediction of cardiovascular events
+  authors:
+  - Michele Orini
+  - Stefan van Duijvenboden
+  - William J Young
+  - "Julia Ram\xEDrez"
+  - Aled R Jones
+  - Andrew Tinker
+  - Patricia B Munroe
+  - Pier D Lambiase
+  publisher: European Heart Journal - Digital Health
+  date: '2023-02-03'
+  link: https://doi.org/gr3bt3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13059-018-1457-6
+  title: Exome-chip meta-analysis identifies novel loci associated with cardiac conduction,
+    including ADAMTS6
+  authors:
+  - Bram P. Prins
+  - Timothy J. Mead
+  - Jennifer A. Brody
+  - Gardar Sveinbjornsson
+  - Ioanna Ntalla
+  - Nathan A. Bihlmeyer
+  - Marten van den Berg
+  - Jette Bork-Jensen
+  - Stefania Cappellani
+  - Stefan Van Duijvenboden
+  - Nikolai T. Klena
+  - George C. Gabriel
+  - Xiaoqin Liu
+  - Cagri Gulec
+  - Niels Grarup
+  - Jeffrey Haessler
+  - Leanne M. Hall
+  - Annamaria Iorio
+  - Aaron Isaacs
+  - Ruifang Li-Gao
+  - Honghuang Lin
+  - Ching-Ti Liu
+  - "Leo-Pekka Lyytik\xE4inen"
+  - Jonathan Marten
+  - Hao Mei
+  - "Martina M\xFCller-Nurasyid"
+  - Michele Orini
+  - Sandosh Padmanabhan
+  - Farid Radmanesh
+  - Julia Ramirez
+  - Antonietta Robino
+  - Molly Schwartz
+  - Jessica van Setten
+  - Albert V. Smith
+  - Niek Verweij
+  - Helen R. Warren
+  - Stefan Weiss
+  - Alvaro Alonso
+  - David O. Arnar
+  - Michiel L. Bots
+  - Rudolf A. de Boer
+  - Anna F. Dominiczak
+  - Mark Eijgelsheim
+  - Patrick T. Ellinor
+  - Xiuqing Guo
+  - Stephan B. Felix
+  - Tamara B. Harris
+  - Caroline Hayward
+  - Susan R. Heckbert
+  - Paul L. Huang
+  - J. W. Jukema
+  - "Mika K\xE4h\xF6nen"
+  - Jan A. Kors
+  - Pier D. Lambiase
+  - Lenore J. Launer
+  - Man Li
+  - Allan Linneberg
+  - Christopher P. Nelson
+  - Oluf Pedersen
+  - Marco Perez
+  - Annette Peters
+  - Ozren Polasek
+  - Bruce M. Psaty
+  - Olli T. Raitakari
+  - Kenneth M. Rice
+  - Jerome I. Rotter
+  - Moritz F. Sinner
+  - Elsayed Z. Soliman
+  - Tim D. Spector
+  - Konstantin Strauch
+  - Unnur Thorsteinsdottir
+  - Andrew Tinker
+  - Stella Trompet
+  - "Andr\xE9 Uitterlinden"
+  - Ilonca Vaartjes
+  - Peter van der Meer
+  - "Uwe V\xF6lker"
+  - "Henry V\xF6lzke"
+  - Melanie Waldenberger
+  - James G. Wilson
+  - Zhijun Xie
+  - Folkert W. Asselbergs
+  - "Marcus D\xF6rr"
+  - Cornelia M. van Duijn
+  - Paolo Gasparini
+  - Daniel F. Gudbjartsson
+  - Vilmundur Gudnason
+  - Torben Hansen
+  - "Stefan K\xE4\xE4b"
+  - "J\xF8rgen K. Kanters"
+  - Charles Kooperberg
+  - "Terho Lehtim\xE4ki"
+  - Henry J. Lin
+  - Steven A. Lubitz
+  - Dennis O. Mook-Kanamori
+  - Francesco J. Conti
+  - Christopher H. Newton-Cheh
+  - Jonathan Rosand
+  - Igor Rudan
+  - Nilesh J. Samani
+  - Gianfranco Sinagra
+  - Blair H. Smith
+  - Hilma Holm
+  - Bruno H. Stricker
+  - Sheila Ulivi
+  - Nona Sotoodehnia
+  - Suneel S. Apte
+  - Pim van der Harst
+  - Kari Stefansson
+  - Patricia B. Munroe
+  - Dan E. Arking
+  - Cecilia W. Lo
+  - Yalda Jamshidi
+  publisher: Genome Biology
+  date: '2018-07-17'
+  link: https://doi.org/gdxcp9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-018-04148-1
+  title: Thirty loci identified for heart rate response to exercise and recovery implicate
+    autonomic nervous system
+  authors:
+  - "Julia Ram\xEDrez"
+  - Stefan van Duijvenboden
+  - Ioanna Ntalla
+  - Borbala Mifsud
+  - Helen R Warren
+  - Evan Tzanis
+  - Michele Orini
+  - Andrew Tinker
+  - Pier D. Lambiase
+  - Patricia B. Munroe
+  publisher: Nature Communications
+  date: '2018-05-16'
+  link: https://doi.org/gdj9bn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.22489/cinc.2018.039
+  title: Assessing a Warping Methodology for the Identification of Increased Cardiovascular
+    Risk Based on the HR Profile Morphology
+  authors:
+  - "Julia Ram\xEDrez"
+  - Stefan van Duijvenboden
+  - Pablo Laguna
+  - Esther Pueyo
+  - Andrew Tinker
+  - Pier Lambiase
+  - Patricia Munroe
+  - Michele Orini
+  publisher: Computing in Cardiology Conference (CinC)
+  date: '2018-12-30'
+  link: https://doi.org/g4cmtd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1161/circep.119.007549
+  title: Cardiovascular Predictive Value and Genetic Basis of Ventricular Repolarization
+    Dynamics
+  authors:
+  - "Julia Ram\xEDrez"
+  - Stefan van Duijvenboden
+  - Nay Aung
+  - Pablo Laguna
+  - Esther Pueyo
+  - Andrew Tinker
+  - Pier D. Lambiase
+  - Michele Orini
+  - Patricia B. Munroe
+  publisher: 'Circulation: Arrhythmia and Electrophysiology'
+  date: '2019-10-01'
+  link: https://doi.org/gs6mfh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ajhg.2020.04.009
+  title: Common Genetic Variants Modulate the Electrocardiographic Tpeak-to-Tend Interval
+  authors:
+  - "Julia Ram\xEDrez"
+  - Stefan van Duijvenboden
+  - William J. Young
+  - Michele Orini
+  - Pier D. Lambiase
+  - Patricia B. Munroe
+  - Andrew Tinker
+  publisher: The American Journal of Human Genetics
+  date: '2020-06-01'
+  link: https://doi.org/ggvnnx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.22489/cinc.2020.402
+  title: Sex Differences in the Morphology of RR-Matched T-waves
+  authors:
+  - "Julia Ram\xEDrez"
+  - Stefan van Duijvenboden
+  - Andrew Tinker
+  - Pier Lambiase
+  - Patricia Munroe
+  - Michele Orini
+  publisher: Computing in Cardiology Conference (CinC)
+  date: '2020-12-30'
+  link: https://doi.org/g5xbpz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.22489/cinc.2020.478
+  title: Interaction Between ECG and Genetic Markers of Coronary Artery Disease
+  authors:
+  - "Julia Ram\xEDrez"
+  - Stefan van Duijvenboden
+  - William Young
+  - Andrew Tinker
+  - Pier Lambiase
+  - Patricia Munroe
+  - Michele Orini
+  publisher: Computing in Cardiology Conference (CinC)
+  date: '2020-12-30'
+  link: https://doi.org/gpf373
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1177/20480040211023664
+  title: Analysing electrocardiographic traits and predicting cardiac risk in UK biobank
+  authors:
+  - "Julia Ram\xEDrez"
+  - Stefan van Duijvenboden
+  - William J Young
+  - Michele Orini
+  - Aled R Jones
+  - Pier D Lambiase
+  - Patricia B Munroe
+  - Andrew Tinker
+  publisher: JRSM Cardiovascular Disease
+  date: '2021-01-01'
+  link: https://doi.org/g5xbp7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/function/zqaa038
+  title: Ventricular Restitution Predicts Paroxysmal Atrial Fibrillation in Horses
+  authors:
+  - "Julia Ram\xEDrez"
+  - Andrew Tinker
+  publisher: Function
+  date: '2020-11-09'
+  link: https://doi.org/g5xbp9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1161/circgen.121.003441
+  title: Prediction of Coronary Artery Disease and Major Adverse Cardiovascular Events
+    Using Clinical and Genetic Risk Scores for Cardiovascular Risk Factors
+  authors:
+  - "Julia Ram\xEDrez"
+  - Stefan van Duijvenboden
+  - William J. Young
+  - Andrew Tinker
+  - Pier D. Lambiase
+  - Michele Orini
+  - Patricia B. Munroe
+  publisher: 'Circulation: Genomic and Precision Medicine'
+  date: '2022-10-01'
+  link: https://doi.org/gqjfh9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1161/jaha.121.025897
+  title: "ECG T\u2010Wave Morphologic Variations Predict Ventricular Arrhythmic Risk\
+    \ in Low\u2010 and Moderate\u2010Risk Populations"
+  authors:
+  - "Julia Ram\xEDrez"
+  - Antti Kiviniemi
+  - Stefan van Duijvenboden
+  - Andrew Tinker
+  - Pier D. Lambiase
+  - Juhani Junttila
+  - "Juha S. Perki\xF6m\xE4ki"
+  - Heikki V. Huikuri
+  - Michele Orini
+  - Patricia B. Munroe
+  publisher: Journal of the American Heart Association
+  date: '2022-09-06'
+  link: https://doi.org/g5xbqg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/computers10050060
+  title: A Novel Two-Stage Heart Arrhythmia Ensemble Classifier
+  authors:
+  - Mercedeh J. Rezaei
+  - John R. Woodward
+  - "Julia Ram\xEDrez"
+  - Patricia Munroe
+  publisher: Computers
+  date: '2021-05-01'
+  link: https://doi.org/g5xbqk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ijcard.2017.03.094
+  title: The mechanisms of ventricular arrhythmia in Chagas disease
+  authors:
+  - Andrew Tinker
+  publisher: International Journal of Cardiology
+  date: '2017-08-01'
+  link: https://doi.org/g5xbqq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/hmg/ddx113
+  title: Discovery of novel heart rate-associated loci using the Exome Chip
+  authors:
+  - Marten E. van den Berg
+  - Helen R. Warren
+  - Claudia P. Cabrera
+  - Niek Verweij
+  - Borbala Mifsud
+  - Jeffrey Haessler
+  - Nathan A. Bihlmeyer
+  - Yi-Ping Fu
+  - Stefan Weiss
+  - Henry J. Lin
+  - Niels Grarup
+  - Ruifang Li-Gao
+  - Giorgio Pistis
+  - Nabi Shah
+  - Jennifer A. Brody
+  - "Martina M\xFCller-Nurasyid"
+  - Honghuang Lin
+  - Hao Mei
+  - Albert V. Smith
+  - "Leo-Pekka Lyytik\xE4inen"
+  - Leanne M. Hall
+  - Jessica van Setten
+  - Stella Trompet
+  - Bram P. Prins
+  - Aaron Isaacs
+  - Farid Radmanesh
+  - Jonathan Marten
+  - Aiman Entwistle
+  - Jan A. Kors
+  - Claudia T. Silva
+  - Alvaro Alonso
+  - Joshua C. Bis
+  - Rudolf de Boer
+  - Hugoline G. de Haan
+  - "Ren\xE9e de Mutsert"
+  - George Dedoussis
+  - Anna F. Dominiczak
+  - Alex S. F. Doney
+  - Patrick T. Ellinor
+  - Ruben N. Eppinga
+  - Stephan B. Felix
+  - Xiuqing Guo
+  - Yanick Hagemeijer
+  - Torben Hansen
+  - Tamara B. Harris
+  - Susan R. Heckbert
+  - Paul L. Huang
+  - Shih-Jen Hwang
+  - "Mika K\xE4h\xF6nen"
+  - "J\xF8rgen K. Kanters"
+  - Ivana Kolcic
+  - Lenore J. Launer
+  - Man Li
+  - Jie Yao
+  - Allan Linneberg
+  - Simin Liu
+  - Peter W. Macfarlane
+  - Massimo Mangino
+  - Andrew D. Morris
+  - Antonella Mulas
+  - Alison D. Murray
+  - Christopher P. Nelson
+  - "Marco Orr\xFA"
+  - Sandosh Padmanabhan
+  - Annette Peters
+  - David J. Porteous
+  - Neil Poulter
+  - Bruce M. Psaty
+  - Lihong Qi
+  - Olli T. Raitakari
+  - Fernando Rivadeneira
+  - Carolina Roselli
+  - Igor Rudan
+  - Naveed Sattar
+  - Peter Sever
+  - Moritz F. Sinner
+  - Elsayed Z. Soliman
+  - Timothy D. Spector
+  - Alice V. Stanton
+  - Kathleen E. Stirrups
+  - Kent D. Taylor
+  - Martin D. Tobin
+  - "Andr\xE9 Uitterlinden"
+  - Ilonca Vaartjes
+  - Arno W. Hoes
+  - Peter van der Meer
+  - "Uwe V\xF6lker"
+  - Melanie Waldenberger
+  - Zhijun Xie
+  - Magdalena Zoledziewska
+  - Andrew Tinker
+  - Ozren Polasek
+  - Jonathan Rosand
+  - Yalda Jamshidi
+  - Cornelia M. van Duijn
+  - Eleftheria Zeggini
+  - J. Wouter Jukema
+  - Folkert W. Asselbergs
+  - Nilesh J. Samani
+  - "Terho Lehtim\xE4ki"
+  - Vilmundur Gudnason
+  - James Wilson
+  - Steven A. Lubitz
+  - "Stefan K\xE4\xE4b"
+  - Nona Sotoodehnia
+  - Mark J. Caulfield
+  - Colin N. A. Palmer
+  - Serena Sanna
+  - Dennis O. Mook-Kanamori
+  - Panos Deloukas
+  - Oluf Pedersen
+  - Jerome I. Rotter
+  - "Marcus D\xF6rr"
+  - Chris J. O'Donnell
+  - Caroline Hayward
+  - Dan E. Arking
+  - Charles Kooperberg
+  - Pim van der Harst
+  - Mark Eijgelsheim
+  - Bruno H. Stricker
+  - Patricia B. Munroe
+  publisher: Human Molecular Genetics
+  date: '2017-04-03'
+  link: https://doi.org/f9zjqg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1161/circgen.119.002774
+  title: Genetic Basis and Prognostic Value of Exercise QT Dynamics
+  authors:
+  - Stefan van Duijvenboden
+  - "Julia Ram\xEDrez"
+  - William J. Young
+  - Borbala Mifsud
+  - Michele Orini
+  - Andrew Tinker
+  - Patricia B. Munroe
+  - Pier D. Lambiase
+  publisher: 'Circulation: Genomic and Precision Medicine'
+  date: '2020-08-01'
+  link: https://doi.org/g5xbqt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/hmg/ddab197
+  title: Genomic and pleiotropic analyses of resting QT interval identifies novel
+    loci and overlap with atrial electrical disorders
+  authors:
+  - Stefan van Duijvenboden
+  - "Julia Ram\xEDrez"
+  - William J Young
+  - Michele Orini
+  - Borbala Mifsud
+  - Andrew Tinker
+  - Pier D Lambiase
+  - Patricia B Munroe
+  publisher: Human Molecular Genetics
+  date: '2021-07-19'
+  link: https://doi.org/g5xbqw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1161/circulationaha.123.064633
+  title: Prognostic Significance of Different Ventricular Ectopic Burdens During Submaximal
+    Exercise in Asymptomatic UK Biobank Subjects
+  authors:
+  - Stefan van Duijvenboden
+  - "Julia Ram\xEDrez"
+  - Michele Orini
+  - Nay Aung
+  - Steffen E. Petersen
+  - Aiden Doherty
+  - Andrew Tinker
+  - Patricia B. Munroe
+  - Pier D. Lambiase
+  publisher: Circulation
+  date: '2023-12-12'
+  link: https://doi.org/gs6mhp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1161/circgen.119.002874
+  title: Genetic Determinants of Electrocardiographic P-Wave Duration and Relation
+    to Atrial Fibrillation
+  authors:
+  - Lu-Chen Weng
+  - Amelia Weber Hall
+  - Seung Hoan Choi
+  - Sean J. Jurgens
+  - Jeffrey Haessler
+  - Nathan A. Bihlmeyer
+  - Niels Grarup
+  - Honghuang Lin
+  - Alexander Teumer
+  - Ruifang Li-Gao
+  - Jie Yao
+  - Xiuqing Guo
+  - Jennifer A. Brody
+  - "Martina M\xFCller-Nurasyid"
+  - Katharina Schramm
+  - Niek Verweij
+  - Marten E. van den Berg
+  - Jessica van Setten
+  - Aaron Isaacs
+  - "Julia Ram\xEDrez"
+  - Helen R. Warren
+  - Sandosh Padmanabhan
+  - Jan A. Kors
+  - Rudolf A. de Boer
+  - Peter van der Meer
+  - Moritz F. Sinner
+  - Melanie Waldenberger
+  - Bruce M. Psaty
+  - Kent D. Taylor
+  - "Uwe V\xF6lker"
+  - "J\xF8rgen K. Kanters"
+  - Man Li
+  - Alvaro Alonso
+  - Marco V. Perez
+  - Ilonca Vaartjes
+  - Michiel L. Bots
+  - Paul L. Huang
+  - Susan R. Heckbert
+  - Henry J. Lin
+  - Jelena Kornej
+  - Patricia B. Munroe
+  - Cornelia M. van Duijn
+  - Folkert W. Asselbergs
+  - Bruno H. Stricker
+  - Pim van der Harst
+  - "Stefan K\xE4\xE4b"
+  - Annette Peters
+  - Nona Sotoodehnia
+  - Jerome I. Rotter
+  - Dennis O. Mook-Kanamori
+  - "Marcus D\xF6rr"
+  - Stephan B. Felix
+  - Allan Linneberg
+  - Torben Hansen
+  - Dan E. Arking
+  - Charles Kooperberg
+  - Emelia J. Benjamin
+  - Kathryn L. Lunetta
+  - Patrick T. Ellinor
+  - Steven A. Lubitz
+  publisher: 'Circulation: Genomic and Precision Medicine'
+  date: '2020-10-01'
+  link: https://doi.org/gsdkgk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-022-32821-z
+  title: Genetic analyses of the electrocardiographic QT interval and its components
+    identify additional loci and pathways
+  authors:
+  - William J. Young
+  - Najim Lahrouchi
+  - Aaron Isaacs
+  - ThuyVy Duong
+  - Luisa Foco
+  - Farah Ahmed
+  - Jennifer A. Brody
+  - Reem Salman
+  - Raymond Noordam
+  - Jan-Walter Benjamins
+  - Jeffrey Haessler
+  - "Leo-Pekka Lyytik\xE4inen"
+  - Linda Repetto
+  - Maria Pina Concas
+  - Marten E. van den Berg
+  - Stefan Weiss
+  - Antoine R. Baldassari
+  - Traci M. Bartz
+  - James P. Cook
+  - Daniel S. Evans
+  - Rebecca Freudling
+  - Oliver Hines
+  - Jonas L. Isaksen
+  - Honghuang Lin
+  - Hao Mei
+  - Arden Moscati
+  - "Martina M\xFCller-Nurasyid"
+  - Casia Nursyifa
+  - Yong Qian
+  - Anne Richmond
+  - Carolina Roselli
+  - Kathleen A. Ryan
+  - Eduardo Tarazona-Santos
+  - "S\xE9bastien Th\xE9riault"
+  - Stefan van Duijvenboden
+  - Helen R. Warren
+  - Jie Yao
+  - Dania Raza
+  - Stefanie Aeschbacher
+  - Gustav Ahlberg
+  - Alvaro Alonso
+  - Laura Andreasen
+  - Joshua C. Bis
+  - Eric Boerwinkle
+  - Archie Campbell
+  - Eulalia Catamo
+  - Massimiliano Cocca
+  - Michael J. Cutler
+  - Dawood Darbar
+  - Alessandro De Grandi
+  - Antonio De Luca
+  - Jun Ding
+  - Christina Ellervik
+  - Patrick T. Ellinor
+  - Stephan B. Felix
+  - Philippe Froguel
+  - Christian Fuchsberger
+  - "Martin G\xF6gele"
+  - Claus Graff
+  - Mariaelisa Graff
+  - Xiuqing Guo
+  - Torben Hansen
+  - Susan R. Heckbert
+  - Paul L. Huang
+  - Heikki V. Huikuri
+  - "Nina Hutri-K\xE4h\xF6nen"
+  - M. Arfan Ikram
+  - Rebecca D. Jackson
+  - Juhani Junttila
+  - Maryam Kavousi
+  - Jan A. Kors
+  - Thiago P. Leal
+  - Rozenn N. Lemaitre
+  - Henry J. Lin
+  - Lars Lind
+  - Allan Linneberg
+  - Simin Liu
+  - Peter W. MacFarlane
+  - Massimo Mangino
+  - Thomas Meitinger
+  - Massimo Mezzavilla
+  - Pashupati P. Mishra
+  - Rebecca N. Mitchell
+  - Nina Mononen
+  - May E. Montasser
+  - Alanna C. Morrison
+  - Matthias Nauck
+  - Victor Nauffal
+  - Pau Navarro
+  - Kjell Nikus
+  - Guillaume Pare
+  - Kristen K. Patton
+  - Giulia Pelliccione
+  - Alan Pittman
+  - David J. Porteous
+  - Peter P. Pramstaller
+  - Michael H. Preuss
+  - Olli T. Raitakari
+  - Alexander P. Reiner
+  - Antonio Luiz P. Ribeiro
+  - Kenneth M. Rice
+  - Lorenz Risch
+  - David Schlessinger
+  - Ulrich Schotten
+  - Claudia Schurmann
+  - Xia Shen
+  - M. Benjamin Shoemaker
+  - Gianfranco Sinagra
+  - Moritz F. Sinner
+  - Elsayed Z. Soliman
+  - Monika Stoll
+  - Konstantin Strauch
+  - Kirill Tarasov
+  - Kent D. Taylor
+  - Andrew Tinker
+  - Stella Trompet
+  - "Andr\xE9 Uitterlinden"
+  - "Uwe V\xF6lker"
+  - "Henry V\xF6lzke"
+  - Melanie Waldenberger
+  - Lu-Chen Weng
+  - Eric A. Whitsel
+  - James G. Wilson
+  - Christy L. Avery
+  - David Conen
+  - Adolfo Correa
+  - Francesco Cucca
+  - "Marcus D\xF6rr"
+  - Sina A. Gharib
+  - Giorgia Girotto
+  - Niels Grarup
+  - Caroline Hayward
+  - Yalda Jamshidi
+  - "Marjo-Riitta J\xE4rvelin"
+  - J. Wouter Jukema
+  - "Stefan K\xE4\xE4b"
+  - "Mika K\xE4h\xF6nen"
+  - "J\xF8rgen K. Kanters"
+  - Charles Kooperberg
+  - "Terho Lehtim\xE4ki"
+  - Maria Fernanda Lima-Costa
+  - Yongmei Liu
+  - Ruth J. F. Loos
+  - Steven A. Lubitz
+  - Dennis O. Mook-Kanamori
+  - Andrew P. Morris
+  - "Jeffrey R. O\u2019Connell"
+  - Morten Salling Olesen
+  - Michele Orini
+  - Sandosh Padmanabhan
+  - Cristian Pattaro
+  - Annette Peters
+  - Bruce M. Psaty
+  - Jerome I. Rotter
+  - Bruno Stricker
+  - Pim van der Harst
+  - Cornelia M. van Duijn
+  - Niek Verweij
+  - James F. Wilson
+  - Dan E. Arking
+  - Julia Ramirez
+  - Pier D. Lambiase
+  - Nona Sotoodehnia
+  - Borbala Mifsud
+  - Christopher Newton-Cheh
+  - Patricia B. Munroe
+  publisher: Nature Communications
+  date: '2022-09-01'
+  link: https://doi.org/gqt2pf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1161/circgen.120.003231
+  title: 'Genetically Determined Serum Calcium Levels and Markers of Ventricular Repolarization:
+    A Mendelian Randomization Study in the UK Biobank'
+  authors:
+  - William J. Young
+  - Helen R. Warren
+  - Dennis O. Mook-Kanamori
+  - "Julia Ram\xEDrez"
+  - Stefan van Duijvenboden
+  - Michele Orini
+  - Andrew Tinker
+  - Diana van Heemst
+  - Pier D. Lambiase
+  - J. Wouter Jukema
+  - Patricia B. Munroe
+  - Raymond Noordam
+  publisher: 'Circulation: Genomic and Precision Medicine'
+  date: '2021-06-01'
+  link: https://doi.org/gmzmdw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bspc.2020.102305
+  title: 'A Method to Minimise the Impact of ECG Marker Inaccuracies on the Spatial
+    QRS-T angle: Evaluation on 1,512 Manually Annotated ECGs'
+  authors:
+  - William J. Young
+  - Stefan van Duijvenboden
+  - "Julia Ram\xEDrez"
+  - Aled Jones
+  - Andrew Tinker
+  - Patricia B. Munroe
+  - Pier D. Lambiase
+  - Michele Orini
+  publisher: Biomedical Signal Processing and Control
+  date: '2021-02-01'
+  link: https://doi.org/g5xbq4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-023-36997-w
+  title: Genetic architecture of spatial electrical biomarkers for cardiac arrhythmia
+    and relationship with cardiovascular disease
+  authors:
+  - William J. Young
+  - Jeffrey Haessler
+  - Jan-Walter Benjamins
+  - Linda Repetto
+  - Jie Yao
+  - Aaron Isaacs
+  - Andrew R. Harper
+  - Julia Ramirez
+  - Sophie Garnier
+  - Stefan van Duijvenboden
+  - Antoine R. Baldassari
+  - Maria Pina Concas
+  - ThuyVy Duong
+  - Luisa Foco
+  - Jonas L. Isaksen
+  - Hao Mei
+  - Raymond Noordam
+  - Casia Nursyifa
+  - Anne Richmond
+  - Meddly L. Santolalla
+  - Colleen M. Sitlani
+  - Negin Soroush
+  - "S\xE9bastien Th\xE9riault"
+  - Stella Trompet
+  - Stefanie Aeschbacher
+  - Fariba Ahmadizar
+  - Alvaro Alonso
+  - Jennifer A. Brody
+  - Archie Campbell
+  - Adolfo Correa
+  - Dawood Darbar
+  - Antonio De Luca
+  - "Jean-Fran\xE7ois Deleuze"
+  - Christina Ellervik
+  - Christian Fuchsberger
+  - Anuj Goel
+  - Christopher Grace
+  - Xiuqing Guo
+  - Torben Hansen
+  - Susan R. Heckbert
+  - Rebecca D. Jackson
+  - Jan A. Kors
+  - Maria Fernanda Lima-Costa
+  - Allan Linneberg
+  - Peter W. Macfarlane
+  - Alanna C. Morrison
+  - Pau Navarro
+  - David J. Porteous
+  - Peter P. Pramstaller
+  - Alexander P. Reiner
+  - Lorenz Risch
+  - Ulrich Schotten
+  - Xia Shen
+  - Gianfranco Sinagra
+  - Elsayed Z. Soliman
+  - Monika Stoll
+  - Eduardo Tarazona-Santos
+  - Andrew Tinker
+  - Katerina Trajanoska
+  - Eric Villard
+  - Helen R. Warren
+  - Eric A. Whitsel
+  - Kerri L. Wiggins
+  - Dan E. Arking
+  - Christy L. Avery
+  - David Conen
+  - Giorgia Girotto
+  - Niels Grarup
+  - Caroline Hayward
+  - J.Wouter Jukema
+  - Dennis O. Mook-Kanamori
+  - Morten Salling Olesen
+  - Sandosh Padmanabhan
+  - Bruce M. Psaty
+  - Cristian Pattaro
+  - Antonio Luiz P. Ribeiro
+  - Jerome I. Rotter
+  - Bruno H. Stricker
+  - Pim van der Harst
+  - Cornelia M. van Duijn
+  - Niek Verweij
+  - James G. Wilson
+  - Michele Orini
+  - Philippe Charron
+  - Hugh Watkins
+  - Charles Kooperberg
+  - Henry J. Lin
+  - James F. Wilson
+  - "J\xF8rgen K. Kanters"
+  - Nona Sotoodehnia
+  - Borbala Mifsud
+  - Pier D. Lambiase
+  - Larisa G. Tereshchenko
+  - Patricia B. Munroe
+  publisher: Nature Communications
+  date: '2023-03-14'
+  link: https://doi.org/gsq2t5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41431-023-01338-4
+  title: Discovery of rare variants associated with resting heart rate
+  authors:
+  - Julia Ramirez
+  - Stefan van Duijvenboden
+  - Lahiru Thomas Sooriyabandara
+  - Andrew Tinker
+  - Patricia Munroe
+  publisher: European Journal of Human Genetics
+  date: '2023-05-01'
+  link: https://doi.org/g5xb8h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICTAI50040.2020.00145
+  title: Data Augmentation for Heart Arrhythmia Classification
+  authors:
+  - Mercedeh J. Rezaei
+  - John R. Woodward
+  - Julia Ramirez
+  - Patricia Munroe
+  publisher: 2020 IEEE 32nd International Conference on Tools with Artificial Intelligence
+    (ICTAI)
+  date: '2020-11-01'
+  link: https://doi.org/g5xb8j
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.22489/CinC.2020.402
+  title: Sex Differences in the Morphology of RR-Matched T-waves
+  authors:
+  - "Julia Ram\xEDrez"
+  - Stefan van Duijvenboden
+  - Andrew Tinker
+  - Pier Lambiase
+  - Patricia Munroe
+  - Michele Orini
+  publisher: Computing in Cardiology Conference (CinC)
+  date: '2020-12-30'
+  link: https://doi.org/g5xbpz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.22489/CinC.2020.478
+  title: Interaction Between ECG and Genetic Markers of Coronary Artery Disease
+  authors:
+  - "Julia Ram\xEDrez"
+  - Stefan van Duijvenboden
+  - William Young
+  - Andrew Tinker
+  - Pier Lambiase
+  - Patricia Munroe
+  - Michele Orini
+  publisher: Computing in Cardiology Conference (CinC)
+  date: '2020-12-30'
+  link: https://doi.org/gpf373
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1161/CIRCULATIONAHA.123.064633
+  title: Prognostic Significance of Different Ventricular Ectopic Burdens During Submaximal
+    Exercise in Asymptomatic UK Biobank Subjects
+  authors:
+  - Stefan van Duijvenboden
+  - "Julia Ram\xEDrez"
+  - Michele Orini
+  - Nay Aung
+  - Steffen E. Petersen
+  - Aiden Doherty
+  - Andrew Tinker
+  - Patricia B. Munroe
+  - Pier D. Lambiase
+  publisher: Circulation
+  date: '2023-12-12'
+  link: https://doi.org/gs6mhp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.22489/CinC.2020.481
+  title: Will Genetic Data Significantly Change Cardiovascular Risk Prediction in
+    Daily Practice?
+  authors:
+  - William Young
+  - "Julia Ram\xEDrez"
+  - Stefan van Duijvenboden
+  - Andrew Tinker
+  - Pier Lambiase
+  - Patricia Munroe
+  - Michele Orini
+  publisher: Computing in Cardiology Conference (CinC)
+  date: '2020-12-30'
+  link: https://doi.org/gpf5bb
   plugin: sources.py
   file: sources.yaml
