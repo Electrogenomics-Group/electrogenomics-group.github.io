@@ -3,7 +3,7 @@ name: Patricia B. Munroe
 image: images/photo.jpg
 description: Professor of Molecular Medicine and Centre Lead for Clinical Pharmacology and Precision Medicine
 affiliation: WHRI, QMUL, UK
-role:
+role: pi
 group:
 aliases:
   - P. B. Munroe
