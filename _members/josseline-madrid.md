@@ -12,4 +12,4 @@ links:
   home-page: https://bsicos.i3a.es/josseline-madrid/
 ---
 
-Josseline is a predoctoral researcher at the Instituto de Investigación en Ingeniería de Aragón (I3A) and, UNIZAR, currently working in the sudden cardiac death risk stratification in ischemic patients through the study of the morphology of electrocardiographic waves and genetic architecture studies.
+Josseline is a predoctoral researcher at the Engineering Research Institute of Aragón (I3A), University of Zaragoza, currently working in the sudden cardiac death risk stratification in ischemic patients through the study of the morphology of electrocardiographic waves and genetic architecture studies.

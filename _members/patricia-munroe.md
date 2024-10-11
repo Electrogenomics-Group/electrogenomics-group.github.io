@@ -1,6 +1,6 @@
 ---
 name: Patricia B. Munroe
-image: images/photo.jpg
+image: images/team/photo_PM.jpg
 description: Professor of Molecular Medicine and Centre Lead for Clinical Pharmacology and Precision Medicine
 affiliation: WHRI, QMUL, UK
 role: pi

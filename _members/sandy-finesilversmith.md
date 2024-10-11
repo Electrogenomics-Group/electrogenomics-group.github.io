@@ -1,6 +1,6 @@
 ---
 name: Sandy FinesilverSmith
-image: images/photo.jpg
+image: images/team/photo_SF.jpg
 description: Data Scientist
 affiliation: WHRI, QMUL, UK
 role:
