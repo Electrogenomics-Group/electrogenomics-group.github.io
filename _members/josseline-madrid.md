@@ -1,13 +1,15 @@
 ---
 name: Josseline Madrid
-image: images/photo.jpg
+image: images/team/photo_JM.jpg
 description: PhD Student
-affiliation: I3A, Zaragoza, Spain
+affiliation: I3A, UNIZAR, Spain
 role:
 group:
+aliases:
+  - J. Madrid
 links:
-  email:
-  twitter:
+  email: jmadrid@unizar.es
+  home-page: https://bsicos.i3a.es/josseline-madrid/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Josseline is a predoctoral researcher at the Instituto de Investigación en Ingeniería de Aragón (I3A) and, UNIZAR, currently working in the sudden cardiac death risk stratification in ischemic patients through the study of the morphology of electrocardiographic waves and genetic architecture studies.
