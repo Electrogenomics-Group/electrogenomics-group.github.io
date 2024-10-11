@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Electrogenomics Group is comprised of a diverse and highly skilled team of researchers, clinicians, and specialists dedicated to advancing our understanding of cardiovascular function through the integration of genomics and electrophysiology. Our team brings together expertise from a variety of disciplines, including molecular biology, genetics, bioinformatics, and cardiovascular medicine.
+
+Meet our team of dedicated researchers who are at the forefront of innovation in cardiovascular genomics and electrophysiology.
 
 {% include section.html %}
 
