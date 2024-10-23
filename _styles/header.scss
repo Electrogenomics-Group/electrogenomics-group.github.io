@@ -58,7 +58,7 @@ header a {
 }
 
 .title {
-  font-size: var(--large);
+  font-size: var(--xxl);
 }
 
 .subtitle {
@@ -161,6 +161,6 @@ header[data-big] {
   }
 
   .subtitle {
-    font-size: var(--large); // TODO: Make this smaller, and italic
+    font-size: 1.0rem; // TODO: Make this smaller, and italic
   }
 }
