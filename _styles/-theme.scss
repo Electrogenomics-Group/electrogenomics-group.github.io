@@ -2,7 +2,6 @@
 ---
 
 // colors
-// TODO: Update colors here
 [data-dark="false"] {
   --primary: #fca311;
   --secondary: #14213d;
@@ -14,7 +13,6 @@
   --dark-gray: #404040;
   --overlay: #00000020;
 }
-// TODO: Update colors here
 [data-dark="true"] {
   --primary: #fca311;
   --secondary: #075985;
@@ -29,7 +27,6 @@
 
 :root {
   // font families
-  // TODO: Try Oswald, Lato or roboto slab
   --title: "Lato", sans-serif;
   --heading: "Lato", sans-serif;
   --body: "Lato", sans-serif;

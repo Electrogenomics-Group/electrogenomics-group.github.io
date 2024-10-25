@@ -2,7 +2,7 @@
 ---
 
 a {
-  color: var(--primary); // TODO: Get rid of blue color by default, or match font colour
+  color: var(--text);
   transition: color var(--transition);
   overflow-wrap: break-word;
 }
