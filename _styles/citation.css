@@ -47,7 +47,7 @@
 }
 
 .citation-title {
-  font-weight: var(--semi-bold);
+  font-weight: var(--bold);
 }
 
 .citation-text > .icon {
