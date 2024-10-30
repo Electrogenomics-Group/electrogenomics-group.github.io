@@ -10,7 +10,7 @@ aliases:
 links:
   email: h.naderi@qmul.ac.uk
   orcid:  0000-0002-3217-780X
-  twitter: @hafiz_naderi
+  twitter: "@hafiz_naderi"
 ---
 
 Dr Naderi is an Academic Clinical Lecturer in Cardiology at Queen Mary University of London and St Bartholomew’s Hospital, funded by the National Institute for Health and Care Research.
