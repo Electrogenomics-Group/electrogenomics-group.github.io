@@ -1,7 +1,7 @@
 ---
 name: Mihir Sanghvi
 image: images/team/photo_MS.jpg
-description: PhD Student & Clinical Research Fellow
+description: Clinical Research Fellow
 affiliation: WHRI, QMUL, UK; Barts Health NHS Trust
 role:
 group:
