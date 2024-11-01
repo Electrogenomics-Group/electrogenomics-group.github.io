@@ -1,7 +1,7 @@
 ---
 name: Richard Burns
-image: 
-description: Postdoctoral Researcher
+image: images/team/photo_RB.jpg
+description: Statistical Geneticist
 affiliation: WHRI, QMUL, UK
 role:
 group:
@@ -9,6 +9,7 @@ aliases:
   - R. Burns
 links:
   email: richard.burns@qmul.ac.uk
+  orcid: 0000-0001-8526-5603
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Postdoctoral researcher with an interest in the genetic basis of imaging-derived cardiac shape and function, and their relationships with cardiovascular diseases.

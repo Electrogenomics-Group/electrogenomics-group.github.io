@@ -7,7 +7,8 @@ role: pi
 group:
 aliases:
   - Christopher G. Bell
-  
+  - Chris G. Bell
+  - C. G. Bell
 links:
   email: c.bell@qmul.ac.uk
   home-page: https://www.qmul.ac.uk/whri/people/academic-staff/items/bellchristopher.html

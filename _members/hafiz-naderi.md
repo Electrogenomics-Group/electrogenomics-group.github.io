@@ -1,6 +1,6 @@
 ---
 name: Hafiz Naderi
-image: images/team/photo_HN.jpg
+image: images/team/photo_HN.png
 description: Academic Clinical Lecturer in Cardiology
 affiliation: WHRI, QMUL, UK; Barts Health NHS Trust
 role:
