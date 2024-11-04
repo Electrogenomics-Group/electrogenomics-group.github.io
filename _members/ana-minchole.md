@@ -3,7 +3,7 @@ name: Ana Mincholé
 image: images/team/photo_AM.jpg
 description: Ramón y Cajal Senior Researcher
 affiliation: I3A, UNIZAR, Spain
-role: pi
+role:
 group:
 aliases:
   - A. Mincholé

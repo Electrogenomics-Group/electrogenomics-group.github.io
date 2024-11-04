@@ -3,7 +3,7 @@ name: Christopher Bell
 image: images/team/photo_CB.jpg
 description: Reader in Functional Genomics & Epigenomics
 affiliation: WHRI, QMUL, UK
-role: pi
+role:
 group:
 aliases:
   - Christopher G. Bell

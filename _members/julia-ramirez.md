@@ -3,7 +3,7 @@ name: Julia Ramírez
 image: images/team/photo_JR.jpg
 description: Ramón y Cajal Senior Researcher
 affiliation: I3A, UNIZAR, UK
-role: pi
+role:
 group:
 aliases:
   - J. Ramírez

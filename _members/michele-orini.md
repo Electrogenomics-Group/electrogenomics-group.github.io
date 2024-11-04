@@ -3,7 +3,7 @@ name: Michele Orini
 image: images/team/photo_MO.jpg
 description: Senior Lecturer / Associate Professor in Healthcare Engineering
 affiliation: UCL, UK
-role: pi
+role:
 group:
 aliases:
   - M. Orini

@@ -3,7 +3,7 @@ name: Stefan van Duijvenboden
 image: images/team/photo_SD.webp
 description: Researcher in Health Data Science
 affiliation: University of Oxford, UK
-role: pi
+role:
 group:
 aliases:
   - S. v. Duijvenboden
