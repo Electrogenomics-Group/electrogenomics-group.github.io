@@ -12,6 +12,7 @@
   description:  "International award received by J. Ramírez, S. van Duijvenboden, P. Laguna, A Tinker, P Lambiase, P Munroe and M Orini for their work entitled 'Cardiovascular Risk Based on the HR Profile Morphology' at the Computing in Cardiology Meeting in 2018. Maastricht, The Netherlands. The prize included a cheque (US$500 + €500) and a commemorative diploma for communication."
   tags:
     - award
+    - funding
 
 - title: Early career researcher award, CHARGE consortium 2021
   subtitle:  William Young
@@ -19,6 +20,7 @@
   link: https://www.chargeconsortium.com/main/golden-tigers/
   tags:
     - award
+    - collaboration
 
 - title: European Atherosclerosis Society Young Investigator 2022
   subtitle: Julia Ramirez
@@ -26,6 +28,7 @@
   link: https://www.eas-society.org/page/YI_fellowship_2021
   tags:
     - award
+    - funding
 
 - title: BCS/BAS/BSCR Young Investigators Award Competition Runner-up 2021
   subtitle: Julia Ramirez
@@ -33,6 +36,7 @@
   link: https://www.britishcardiovascularsociety.org/conference/abstracts
   tags:
     - award
+    - funding
 
 - title: Tercer Milenio Young Investigator Award Individual 2022
   subtitle: Julia Ramirez
@@ -50,6 +54,7 @@
   description: Runner up prize awarded for the abstract "Sixteen loci identified for T-wave morphology changes in response to exercise and recovery from UK Biobank implicate genes governing ventricular repolarization". J. Ramírez, S. van Duijvenboden, M. Orini et al. It included a £200 prize.
   tags:
     - award
+    - funding
 
 - title: Winner, Best of the Best Clinical Science Abstract, British Cardiovascular Society 2019
   description: Awarded within Cardiac Rhythm Management abstracts at the British Cardiovascular Society Annual Conference for "Cardiac Repolarization During Exercise Reveals Independent Prognostic information For Cardiovascular Risk Prediction". S. van Duijvenboden, J. Ramírez, M. Orini et al. It included a £250 prize.
@@ -67,7 +72,8 @@
     - award
 
 - title: e-cardiology Clinical Translation Award (European Society of Cardiology) 2023
-  description: In recognition for the conference paper "Ultra-Short Beat-to-Beat Repolarization Variability Predicts Cardiovascular Events in Individuals Without Cardiovascular Disease".
+  group: featured
+  description: In recognition for the conference paper "Ultra-Short Beat-to-Beat Repolarization Variability Predicts Cardiovascular Events in Individuals Without Cardiovascular Disease", Michele Orini, Stefan van Duijvenboden, Julia Ramírez, Will Young, Andrew Tinker, Patricia B Munroe, and Pier D Lambiase.
   tags:
     - award
 
@@ -98,154 +104,83 @@
 #
 #Engagement Activities
 #
+ 
+- title: Beat your heart!
+  subtitle: Barts & Queen Mary Science festival, June 2021
+  link: https://www.qmul.ac.uk/whri/patient-public-engagement/barts-and-queen-mary-science-festival/
+  description: 16 pupils, their teacher and a member of the patient advisory panel attended a virtual session as part of the Barts Science Festival in June 2021 for a one hour session covering the relationships of heart rhythm disorders with genetics. This sparked many questions afterwards and a discussion. Four members of the team organised this activity.
+  tags:
+    - engagement
+
+- title: Could your smart watch alert you to risk of sudden death?
+  subtitle: BHF Press release
+  link: https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2021/june/smart-watch-alert-to-risk-of-sudden-death?utm_campaign=~tw2021-194&utm_medium=social-organic&utm_source=&utm_content=&utm_term=
+  description: This press release describes results from development of an algorithm able to quantify sudden cardiac death risk from a single beat in a single lead.
+  tags:
+    - engagement
+
+- title: "Clinical Translation of Genetic Research: A Path from Academia to Industry"
+  subtitle: Charterhouse Square, April 2018
+  link: https://allevents.in/london/clinical-translation-of-genetic-research-a-path-from-academia-to-industry/1000043017286863
+  description: "Mini-Symposium on 'Clinical Translation of Genetic Research: A Path from Academia to Industry', Wednesday 28th April 2018. London, UK. This activity was organised by the two post-docs on the grant - they were interested in engaging with other genetic researchers across academia and industry to gauge their experiences and set up new collaborations. The workshop was very well attended and excellent feedback was received which we have recorded."
+  tags:
+    - engagement
 
 
-#Activity Title	Barts & Queen Mary Science festival June 2021“Beat your heart!”
-#Activity Type	Event, workshop or similar
-#How many people?	11 - 50
-#Geographical Reach	Local
-#Primary Audience	Schools
-#Other Audience	Schools
-#Activity Years	2021
-#Result Description	16 pupils, their teacher and a member of the patient advisory panel attended a virtual session as part of the Barts Science Festival in June 2021 for a one hour session covering the relationships of heart rhythm disorders with genetics. This sparked many questions afterwards and a discussion.  Four members of the team organised this activity.
-#Most important impact?	Audience reported change in views, opinions or behaviours
-#URL	https://www.qmul.ac.uk/whri/patient-public-engagem ent/barts-and-queen-mary-science-festival/
-#Digital ID	
-#Source	Manual
-#Publication ID	62236c93f36596.20829375
-# 
-#Activity Title	BHF Press release – Could your smart watch alert you to risk of sudden death?
-#Activity Type	Media interview, press release, press conference or other response to a media enquiry
-#How many people?	101 - 500
-#Geographical Reach	International
-#Primary Audience	Media (as a channel to wider audiences)
-#Other Audience	Schools,Media (as a channel to the public),Professional Practitioners,Public/other audiences,Industry/Business,Supporters,Undergradua te students,Postgraduate students,Patients, carers and/or patient groups
-#Activity Years	2021
-#Result Description	This press release describes results from development of an algorithm able to quantify sudden cardiac death risk from a single beat in a single lead.
-#Most important impact?	Requests about (further) participation or involvement
-#URL	https://www.bhf.org.uk/what-we-do/news-from-the-bh f/news-archive/2021/june/smart-watch-alert-to-risk -of-sudden-death?utm_campaign=~tw2021-194&utm_medi um=social-organic&utm_source=&utm_content=&utm_ter m=
-#Digital ID	
-#Source	Manual
-#Publication ID	62236d80bc4896.01752019
-# 
-#Activity Title	Career Workshop
-#Activity Type	Event, workshop or similar
-#How many people?	51 - 100
-#Geographical Reach	Regional
-#Primary Audience	Postgraduate students
-#Other Audience	Industry/Business,Undergraduate students,Postgraduate students
-#Activity Years	2018
-#Result Description	Mini-Symposium on "Clinical Translation of Genetic Research: A Path from Academia to Industry" Wednesday 28th April 2018. London, UK, https://allevents.in/london/clinical-translation-o f-genetic-research-a-path-from-academia-to-industr y/1000043017286863.     This activity was organised by the two post-docs on the grant - they were interested in engaging with other genetic researchers across academia and industry to gauge their experiences and set up new collaborations. The workshop was very well attended and excellent feedback was received which we have recorded.
-#Most important impact?	Requests for further information
-#URL	
-#Digital ID	
-#Source	Manual
-#Publication ID	5c7aac824354e5.69438758
-# 
-#Activity Title	I Newspaper Press release – Smart watches could detect risk of sudden cardiac death – and save lives.
-#Activity Type	Media interview, press release, press conference or other response to a media enquiry
-#How many people?	101 - 500
-#Geographical Reach	International
-#Primary Audience	Media (as a channel to wider audiences)
-#Other Audience	Schools,Media (as a channel to the public),Public/other audiences,Industry/Business,Undergraduate students,Postgraduate students,Other audiences,Study participants or study members
-#Activity Years	2021
-#Result Description	This press release describes results from development of an algorithm able to quantify sudden cardiac death risk from a single beat in a single lead.
-#Most important impact?	Requests about (further) participation or involvement
-#URL	https://inews.co.uk/news/health/smart-watches-coul d-detect-risk-sudden-cardiac-death-1037966
-#Digital ID	
-#Source	Manual
-#Publication ID	62236f8f1e2887.92650407
-# 
-#Activity Title	News on QMUL website - Discovery of New Genes Modulating the Tpe Interval: an Electrocardiographic risk marker for Sudden Cardiac Death
-#Activity Type	Engagement focused website, blog or social media channel
-#How many people?	51 - 100
-#Geographical Reach	Regional
-#Primary Audience	Professional Practitioners
-#Other Audience	Media (as a channel to the public),Undergraduate students,Postgraduate students,Patients, carers and/or patient groups
-#Activity Years	2020
-#Result Description	We wished to highlight our recent study discovering 38 new gene regions that influencing the Tpe interval, an electrocardiographic marker associated with susceptibility to malignant ventricular arrhythmias and sudden cardiac death.  Feedback has included interest from students wishing to study with us.
-#Most important impact?	Requests for further information
-#URL	https://www.qmul.ac.uk/whri/latest-news/items/disc overy-of-new-genes-modulating-the-tpe-interval-an- electrocardiographic-risk-marker-for-sudden-cardia c-death-.html
-#Digital ID	
-#Source	Manual
-#Publication ID	6045f3fb336916.13117685
-# 
-#Activity Title	Press release - QMUL and UCL joint study identifies genes linked to impaired capacity to modulate heart rate during and after exercise
-#Activity Type	Media interview, press release, press conference or other response to a media enquiry
-#How many people?	101 - 500
-#Geographical Reach	International
-#Primary Audience	Media (as a channel to wider audiences)
-#Other Audience	Schools,Professional Practitioners,Industry/Business,Postgraduate students,Patients, carers and/or patient groups
-#Activity Years	2018
-#Result Description	This press release describes results from the first analysis investigating the genetic basis of how heart rate responds during and following exercise.
-#Most important impact?	Requests for further information
-#URL	https://www.qmul.ac.uk/whri/latest-news/items/qmul -and-ucl-joint-study-identifies-genes-linked-to-im paired-capacity-to-modulate-heart-rate-during-and- after-exercise--.html
-#Digital ID	
-#Source	Manual
-#Publication ID	6045f03ed9ca12.49096778
-# 
-#Activity Title	Press release - Scientists discover more than 200 genetic factors causing heart arrhythmias
-#Activity Type	Media interview, press release, press conference or other response to a media enquiry
-#How many people?	101 - 500
-#Geographical Reach	International
-#Primary Audience	Media (as a channel to wider audiences)
-#Other Audience	Schools,Media (as a channel to the public),Supporters,Undergraduate students,Patients, carers and/or patient groups
-#Activity Years	2020
-#Result Description	We wished to widely disseminate results from this study a wide audience as results could one day lead to advanced screening methods to discern who is at greatest risk of developing cardiovascular disease.
-#Most important impact?	Plans made for future related activity
-#URL	https://www.qmul.ac.uk/media/news/2020/smd/scienti sts-discover-more-than-200-genetic-factors-causing -heart-arrhythmias.html
-#Digital ID	
-#Source	Manual
-#Publication ID	6045f222c21ae3.24252843
-# 
-#Activity Title	Public engagement - Genetics and the Electrocardiogram to predict arrhythmic risk
-#Activity Type	Event, workshop or similar
-#How many people?	11 - 50
-#Geographical Reach	Local
-#Primary Audience	Patients, carers and/or patient groups
-#Other Audience	Public/other audiences,Patients, carers and/or patient groups
-#Activity Years	2020
-#Result Description	Let’s Talk Hearts is supported by NIHR Barts Biomedical Research Centre. It is open to all providing a forum to learn about heart conditions and latest research. Dr Ramirez described work from both her fellowship and the Electrogenomics group, showcasing the research we do. The session provoked lots of interest, questions and discussion to the local community.
-#Most important impact?	Requests for further information
-#URL	http://www.letstalkhearts.info
-#Digital ID	
-#Source	Manual
-#Publication ID	6045ee821851a1.86128415
-# 
-#Activity Title	QMUL Press release – Could your smart watch alert you to risk of sudden death?
-#Activity Type	Media interview, press release, press conference or other response to a media enquiry
-#How many people?	101 - 500
-#Geographical Reach	International
-#Primary Audience	Media (as a channel to wider audiences)
-#Other Audience	Schools,Media (as a channel to the public),Professional Practitioners,Public/other audiences,Industry/Business,Supporters,Undergradua te students,Postgraduate students,Other audiences,Study participants or study members,Patients, carers and/or patient groups
-#Activity Years	2021
-#Result Description	This press release describes results from development of an algorithm able to quantify sudden cardiac death risk from a single beat in a single lead.
-#Most important impact?	Requests about (further) participation or involvement
-#URL	https://www.qmul.ac.uk/whri/latest-news/items/coul d-your-smart-watch-alert-you-to-risk-of-sudden-dea th.html
-#Digital ID	
-#Source	Manual
-#Publication ID	62236f1dae8ec5.93096406
-# 
-#Activity Title	Special session - Role of Statistical Genetics in Assessing Cardiovas-cular Risk. Challenges and Potential
-#Activity Type	A talk or presentation or debate
-#How many people?	101 - 500
-#Geographical Reach	International
-#Primary Audience	Professional Practitioners
-#Other Audience	Undergraduate students,Postgraduate students
-#Activity Years	2020
-#Result Description	This was a special session at the Computing in Cardiology conference in September 2020. The format was hybrid - participants online and in Rimini. Members of the group organised, chaired and presented at the session. The purpose was to introduce genetics to this meeting, highlighting our work and to encourage new collaborations. The feedback was excellent and there was over 100 attendees.
-#Most important impact?	Requests about (further) participation or involvement
-#URL	https://www.cinc2020.org/scientific-program-overvi ew/
-#Digital ID	
-#Source	Manual
-#Publication ID	60460fb72dc3a4.12638627
-#
-#
-#
-#
-#
+- title: Smart watches could detect risk of sudden cardiac death – and save lives
+  subtitle: i Press release, June 2021
+  link: https://inews.co.uk/news/health/smart-watches-could-detect-risk-sudden-cardiac-death-1037966
+  description: This press release describes results from development of an algorithm able to quantify sudden cardiac death risk from a single beat in a single lead.
+  tags:
+    - engagement
+
+
+- title: "Discovery of New Genes Modulating the Tpe Interval: an Electrocardiographic risk marker for Sudden Cardiac Death"
+  subtitle: QMUL news, 2020
+  link: https://www.qmul.ac.uk/whri/latest-news/items/discovery-of-new-genes-modulating-the-tpe-interval-an-electrocardiographic-risk-marker-for-sudden-cardiac-death-.html
+  description: We wished to highlight our recent study discovering 38 new gene regions that influencing the Tpe interval, an electrocardiographic marker associated with susceptibility to malignant ventricular arrhythmias and sudden cardiac death. Feedback has included interest from students wishing to study with us.
+  tags:
+    - engagement
+
+- title: QMUL and UCL joint study identifies genes linked to impaired capacity to modulate heart rate during and after exercise
+  subtitle: QMUL news, 2018
+  link: https://www.qmul.ac.uk/whri/news-and-events/2018/items/qmul-and-ucl-joint-study-identifies-genes-linked-to-impaired-capacity-to-modulate-heart-rate-during-and-after-exercise--.html
+  description: This press release describes results from the first analysis investigating the genetic basis of how heart rate responds during and following exercise.
+  tags:
+    - engagement
+
+- title: Scientists discover more than 200 genetic factors causing heart arrhythmias
+  subtitle: QMUL news, 2020
+  link: https://www.qmul.ac.uk/media/news/2020/smd/scientists-discover-more-than-200-genetic-factors-causing-heart-arrhythmias.html
+  description: We wished to widely disseminate results from this study a wide audience as results could one day lead to advanced screening methods to discern who is at greatest risk of developing cardiovascular disease.
+  tags:
+    - engagement
+
+- title: Genetics and the Electrocardiogram to predict arrhythmic risk
+  subtitle: Let's Talk hearts, NIHS Barts BRC, 2022
+  link: https://www.qmul.ac.uk/media/news/2020/smd/scientists-discover-more-than-200-genetic-factors-causing-heart-arrhythmias.html
+  description: Let’s Talk Hearts is supported by NIHR Barts Biomedical Research Centre. It is open to all providing a forum to learn about heart conditions and latest research. Dr Ramirez described work from both her fellowship and the Electrogenomics group, showcasing the research we do. The session provoked lots of interest, questions and discussion to the local community.
+  tags:
+    - engagement
+
+- title: Could your smart watch alert you to risk of sudden death?
+  subtitle: QMUL news, 2021
+  link: https://www.qmul.ac.uk/whri/latest-news/items/could-your-smart-watch-alert-you-to-risk-of-sudden-death.html
+  description: This press release describes results from development of an algorithm able to quantify sudden cardiac death risk from a single beat in a single lead.
+  tags:
+    - engagement
+
+- title: Role of Statistical Genetics in Assessing Cardiovascular Risk. Challenges and Potential
+  subtitle: Computing in Cardiology, 2020
+  link: https://cinc.org/archives/2020/
+  description: This was a special session at the Computing in Cardiology conference in September 2020. The format was hybrid - participants online and in Rimini. Members of the group organised, chaired and presented at the session. The purpose was to introduce genetics to this meeting, highlighting our work and to encourage new collaborations. The feedback was excellent and there was over 100 attendees.
+  tags:
+    - engagement
+
 #
 #Material Type	Dataset/Database/Collection of data
+#
+  
 #Material Name	GWAS summary statistics for heart rate dynamic traits
 #Description	We have provided summary statistics for our GWAS for heart rate dynamic traits.
 #Provided to Others	Yes
@@ -256,298 +191,129 @@
 #Digital ID	
 #Source	Manual
 #Publication ID	5c7bd2c0cab646.96518752
-# 
-#Material Type	Dataset/Database/Collection of data
-#Material Name	GWAS Summary statistics for dynamic QT traits
-#Description	We have provided summary statistics for our GWAS for QT dynamic traits.
-#Provided to Others	Yes
-#Year First Provided	2020
-#Year First Provided	
-#Impact Description	Our results provide a resource for other investigators analysing risk factors for CV disease.
-#URL	
-#Digital ID	10.1161/circgen.119.002774
-#Source	Manual
-#Publication ID	6045f61e067493.77214497
-# 
-#Material Type	Dataset/Database/Collection of data
-#Material Name	GWAS Summary statistics for resting and dynamic Tpe traits
-#Description	We have provided summary statistics for our GWAS results.
-#Provided to Others	Yes
-#Year First Provided	2020
-#Year First Provided	
-#Impact Description	Our results provide a resource for other investigators analysing risk factors for CV disease.
-#URL	
-#Digital ID	10.1016/j.ajhg.2020.04.009
-#Source	Manual
-#Publication ID	6045f7056c7e93.53308414
-# 
-#Material Type	Dataset/Database/Collection of data
-#Material Name	GWAS Summary statistics for PR interval
-#Description	We have provided summary statistics for our GWAS for PR interval
-#Provided to Others	Yes
-#Year First Provided	2020
-#Year First Provided	
-#Impact Description	Our results provide a resource for other investigators analysing risk factors for CV disease.
-#URL	
-#Digital ID	10.1038/s41467-020-15706-x
-#Source	Manual
-#Publication ID	604606d7c131f0.95304165
-# 
-#Material Type	Dataset/Database/Collection of data
-#Material Name	GWAS Summary statistics for TMR (repolarisation dynamics)
-#Description	We have provided summary statistics for our GWAS for TMR
-#Provided to Others	Yes
-#Year First Provided	2019
-#Year First Provided	
-#Impact Description	Our results provide a resource for other investigators analysing risk factors for CV disease.
-#URL	
-#Digital ID	10.1161/circep.119.007549
-#Source	Manual
-#Publication ID	604607871ac699.59469552
-# 
-#Material Type	Dataset/Database/Collection of data
-#Material Name	GWAS Summary statistics for resting QT interval
-#Description	We have provided summary statistics for our GWAS for resting QT interval.
-#Provided to Others	Yes
-#Year First Provided	2021
-#Year First Provided	
-#Impact Description	Our results provide a resource for other investigators analysing risk factors for CV disease and genetic pleiotropy.
-#URL	
-#Digital ID	10.1093/hmg/ddab197
-#Source	Manual
-#Publication ID	622360c1e94730.26942252
-# 
-#Material Type	Dataset/Database/Collection of data
-#Material Name	GWAS lead variants for calcium and albumin corrected calcium
-#Description	We have provided lead variants from the largest calcium and albumin-corrected calcium to date
-#Provided to Others	Yes
-#Year First Provided	2021
-#Year First Provided	
-#Impact Description	Our results provide a resource for other investigators analysing risk factors for other related diseases.
-#URL	
-#Digital ID	10.1161/circgen.120.003231
-#Source	Manual
-#Publication ID	622361707edba5.25288510
-# 
-#Material Type	Dataset/Database/Collection of data
-#Material Name	Lead GWAS variants for QT, JT intervals and QRS duration
-#Description	We provide lead variants from multi-ancestry and ancestry specific analyses of the QT, JT intervals and QRS duration from genome-wide association study. We also highlighted potential druggable targets. The data has been made freely available on GWAS catalog (https://www.ebi.ac.uk/gwas/publications/36050321) . This data will be used by other researchers to explore biological mechanisms of disease and develop risk stratification tools.
-#Provided to Others	Yes
-#Year First Provided	2022
-#Year First Provided	
-#Impact Description	There is no impact at this stage.
-#URL	
-#Digital ID	10.1038/s41467-022-32821-z
-#Source	Manual
-#Publication ID	640dd927a96616.43474561
-# 
-#Material Type	Dataset/Database/Collection of data
-#Material Name	Lead variants for spatial and frontal QRS-T angles
-#Description	We provide lead variants from multi-ancestry and ancestry specific analyses of the frontal and spatial QRS-T angles from genome-wide association study. The data has been made freely available on GWAS catalog (https://www.ebi.ac.uk/: Study accession numbers GCST90246318, GCST90246320, GCST90246322, GCST90246324 for Multi-ancestry, European, African and Hispanic ancestry meta-analyses for the spatial QRS-T angle, respectively. Study accession numbers GCST90246319, GCST90246321, GCST90246323, GCST90246325 for Multi-ancestry, European, African and Hispanic ancestry meta-analyses for the frontal QRS-T angle, respectively). This data will be used by other researchers to explore biological mechanisms of disease and develop risk stratification tools.
-#Provided to Others	Yes
-#Year First Provided	2023
-#Year First Provided	
-#Impact Description	No impact yet
-#URL	
-#Digital ID	
-#Source	Manual
-#Publication ID	640dd9bfe507f4.74030983
-# 
-#Material Type	Dataset/Database/Collection of data
-#Material Name	Additional file 1: of Exome-chip meta-analysis identifies novel loci associated with cardiac conduction, including ADAMTS6
-#Description	Table S1. Cohort characteristics. Table S2. Single SNP meta-analyses. Table S3. Sex-stratified analyses. Table S4. SKAT analyses. Table S5. T1-burden analyses. Table S6. ADAMTS6 variant details. Table S7. Cardiac phenotype distribution in Adamts6 mutant mice. (XLSX 475 kb)
-#Provided to Others	Yes
-#Year First Provided	2018
-#URL	https://springernature.figshare.com/articles/datas et/Additional_file_1_of_Exome-chip_meta-analysis_i dentifies_novel_loci_associated_with_cardiac_condu ction_including_ADAMTS6/6823781/1
-#Digital ID	10.6084/m9.figshare.6823781.v1
-#Source	Datacite
-#Publication ID	10.6084/m9.figshare.6823781.v1
-# 
-#Material Type	Dataset/Database/Collection of data
-#Material Name	Additional file 1: of Exome-chip meta-analysis identifies novel loci associated with cardiac conduction, including ADAMTS6
-#Description	Table S1. Cohort characteristics. Table S2. Single SNP meta-analyses. Table S3. Sex-stratified analyses. Table S4. SKAT analyses. Table S5. T1-burden analyses. Table S6. ADAMTS6 variant details. Table S7. Cardiac phenotype distribution in Adamts6 mutant mice. (XLSX 475 kb)
-#Provided to Others	Yes
-#Year First Provided	2018
-#URL	https://springernature.figshare.com/articles/datas et/Additional_file_1_of_Exome-chip_meta-analysis_i dentifies_novel_loci_associated_with_cardiac_condu ction_including_ADAMTS6/6823781
-#Digital ID	10.6084/m9.figshare.6823781
-#Source	Datacite
-#Publication ID	10.6084/m9.figshare.6823781
-#
+
+
+- title: GWAS Summary statistics for dynamic QT traits
+  subtitle: "Circulation: Genomic and Precision Medicine, 2020"
+  link: https://www.ahajournals.org/doi/10.1161/CIRCGEN.119.002774
+  description: Our results provide a resource for other investigators analysing risk factors for CV disease.
+  tags:
+    - dataset
+
+- title: GWAS Summary statistics for resting dynamic Tpeak-to-Tend traits
+  subtitle: American Society of Human Genetics, 2020
+  link: https://doi.org/10.1016/j.ajhg.2020.04.009
+  description: Our results provide a resource for other investigators analysing risk factors for CV disease.
+  tags:
+    - dataset
+
+- title: GWAS Summary statistics for PR interval
+  subtitle: Nature Communications, 2020
+  link: https://www.nature.com/articles/s41467-020-15706-x
+  description: Our results provide a resource for other investigators analysing risk factors for CV disease.
+  tags:
+    - dataset
+
+- title: GWAS Summary statistics for TMR (repolarisation dynamics)
+  subtitle: "Circulation: Arrhythmia and Electrophysiology, 2019"
+  link: https://www.ahajournals.org/doi/10.1161/CIRCEP.119.007549
+  description: Our results provide a resource for other investigators analysing risk factors for CV disease.
+  tags:
+    - dataset
+
+- title: GWAS Summary statistics for resting QT interval
+  subtitle: Human Molecular Genetics, 2021
+  link:  https://doi.org/10.1093/hmg/ddab197
+  description: Our results provide a resource for other investigators analysing risk factors for CV disease and genetic pleiotropy.
+  tags:
+    - dataset
+
+- title: GWAS Summary statistics for resting QT interval
+  subtitle: "Circulation: Genomic and Precision Medicine, 2021"
+  link:  https://www.ahajournals.org/doi/10.1161/CIRCGEN.120.003231 
+  description: Our results provide a resource for other investigators analysing risk factors for other related diseases.
+  tags:
+    - dataset
+
+- title: Lead GWAS variants for QT, JT intervals and QRS duration
+  subtitle: Nature Communications, 2022
+  link: https://www.nature.com/articles/s41467-022-32821-z
+  description: We provide lead variants from multi-ancestry and ancestry specific analyses of the QT, JT intervals and QRS duration from genome-wide association study. We also highlighted potential druggable targets. The data has been made freely available on GWAS catalog (https://www.ebi.ac.uk/gwas/publications/36050321) . This data will be used by other researchers to explore biological mechanisms of disease and develop risk stratification tools.
+  tags:
+    - dataset
+
+- title: Lead GWAS variants for spatial and frontal QRS-T angles
+  subtitle: Nature Communications, 2023
+  link: https://www.nature.com/articles/s41467-023-36997-w
+  description: "We provide lead variants from multi-ancestry and ancestry specific analyses of the frontal and spatial QRS-T angles from genome-wide association study. The data has been made freely available on GWAS catalog (https://www.ebi.ac.uk/: Study accession numbers GCST90246318, GCST90246320, GCST90246322, GCST90246324 for Multi-ancestry, European, African and Hispanic ancestry meta-analyses for the spatial QRS-T angle, respectively. Study accession numbers GCST90246319, GCST90246321, GCST90246323, GCST90246325 for Multi-ancestry, European, African and Hispanic ancestry meta-analyses for the frontal QRS-T angle, respectively). This data will be used by other researchers to explore biological mechanisms of disease and develop risk stratification tools."
+  tags:
+    - dataset
+
+- title: Lead GWAS variants for spatial and frontal QRS-T angles
+  subtitle: Nature Communications, 2023
+  link: https://www.nature.com/articles/s41467-023-36997-w
+  description: "We provide lead variants from multi-ancestry and ancestry specific analyses of the frontal and spatial QRS-T angles from genome-wide association study. The data has been made freely available on GWAS catalog (https://www.ebi.ac.uk/: Study accession numbers GCST90246318, GCST90246320, GCST90246322, GCST90246324 for Multi-ancestry, European, African and Hispanic ancestry meta-analyses for the spatial QRS-T angle, respectively. Study accession numbers GCST90246319, GCST90246321, GCST90246323, GCST90246325 for Multi-ancestry, European, African and Hispanic ancestry meta-analyses for the frontal QRS-T angle, respectively). This data will be used by other researchers to explore biological mechanisms of disease and develop risk stratification tools."
+  tags:
+    - dataset
+
+- title: Exome-chip meta-analysis identifies novel loci associated with cardiac conduction, including ADAMTS6
+  subtitle: Genome Biology, 2018
+  link: https://springernature.figshare.com/articles/dataset/Additional_file_1_of_Exome-chip_meta-analysis_identifies_novel_loci_associated_with_cardiac_conduction_including_ADAMTS6/6823781/1?file=12416675
+  description: Additional file 1 provided. Additionally, Table S1. Cohort characteristics; Table S2. Single SNP meta-analyses; Table S3. Sex-stratified analyses; Table S4. SKAT analyses; Table S5. T1-burden analyses; Table S6. ADAMTS6 variant details; Table S7. Cardiac phenotype distribution in Adamts6 mutant mice.
+  tags:
+    - dataset
+
+
 #
 #FUNDING
 #
-#
-#
-#Funding Scheme	Genetic analyses of ventricular depolarisation and repolarisation and prediction of cardiovascular risk.
-#Organisation Name	Medical Research Council (MRC)
-#Type	Fellowship
-#Funding Currency	GBP British Pound Sterling
-#Funding Amount	206595
-#Consortium Funding Amount	
-#Reference Number	MR/R017468/1
-#Start Month	April
-#Start Year	2018
-#End Month	April
-#End Year	2021
-#Digital ID	
-#Source	RF-RHT
-#Source ID	e9696c7a234a30a8e5252ecdca9c6a8e
-#Original Source ID	MR/R017468/1
-#Publication ID	X00000151|MR/R017468/1
-#
-#
-#
-#Funding Scheme	ECG morphology clusters for sudden cardiac death risk stratification in coronary artery disease using genetics and human-based computational models. PI Ramirez, Munroe and Electrogenomics Team collaborator
-#Organisation Name	Ministry of Science and Innovation (MICINN)
-#Type	Research grant (including intramural programme)
-#Funding Currency	EUR Euro
-#Funding Amount	122210
-#Consortium Funding Amount	
-#Reference Number	a.	PID2021-128972OA-I00
-#Start Month	September
-#Start Year	2022
-#End Month	August
-#End Year	2024
-#Project URL	
-#Digital ID	
-#Source	RF
-#Source ID	
-#Original Source ID	
-#Publication ID	640dd30bb64ac1.47622478
-#
-#
-#
-#
-#
-#Funding Scheme	Marie Curie
-#Organisation Name	Marie Curie
-#Type	Fellowship
-#Funding Currency	EUR Euro
-#Funding Amount	183454
-#Consortium Funding Amount	
-#Reference Number	786833
-#Start Month	March
-#Start Year	2019
-#End Month	February
-#End Year	2021
-#Digital ID	
-#Source	RF
-#Source ID	
-#Original Source ID	
-#Publication ID	5c7aab769f8db8.58198102
-#
-#
-#
-#Funding Scheme	Pathways of calcium signalling in atrial fibrillation highlighted by genomic and transcriptomic studies
-#Organisation Name	Medical Research Council (MRC)
-#Type	Fellowship
-#Funding Currency	GBP British Pound Sterling
-#Funding Amount	246443
-#Consortium Funding Amount	
-#Reference Number	MR/T00052X/1
-#Start Month	October
-#Start Year	2019
-#End Month	September
-#End Year	2022
-#Digital ID	
-#Source	RF
-#Source ID	
-#Original Source ID	
-#Publication ID	5e58f5b0c5b9d2.92938934
-#
-#
-#
-#
-#Funding Scheme	Ramón y Cajal - Dr Ramirez
-#Organisation Name	Ministry of Science and Innovation (MICINN)
-#Type	Fellowship
-#Funding Currency	EUR Euro
-#Funding Amount	236350
-#Consortium Funding Amount	
-#Reference Number	a.	RYC2021-031413-I
-#Start Month	February
-#Start Year	2023
-#End Month	February
-#End Year	2028
-#Project URL	
-#Digital ID	
-#Source	RF
-#Source ID	
-#Original Source ID	
-#Publication ID	65f09189d4ad31.01178291
-#
-#
-#
-#Funding Scheme	WHRI-ACADEMY - William Harvey International Translational Research Academy, International Fellowship Programme, FP7 Marie Curie Actions - People, Co-funding of regional, national and international programmes (COFUND)
-#Organisation Name	European Commission
-#Type	Fellowship
-#Funding Currency	EUR Euro
-#Funding Amount	69272
-#Consortium Funding Amount	
-#Reference Number	PCOFUND-GA-2013-608765
-#Start Month	October
-#Start Year	2017
-#End Month	December
-#End Year	2018
-#Digital ID	
-#Source	Manual
-#Publication ID	5a8af4d75dc584.87506523
-#
+
+- title: Genetic analyses of ventricular depolarisation and repolarisation and prediction of cardiovascular risk
+  subtitle: Medical Research Council (MRC), 2018-2021
+  link: https://gtr.ukri.org/projects?ref=MR%2FR017468%2F1&pn=0&fetchSize=25&selectedSortableField=parentPublicationTitle&selectedSortOrder=ASC
+  description: Reference MR/R017468/1, to the value of 206,595 GBP.
+  tags:
+    - funding
+
+- title: ECG morphology clusters for sudden cardiac death risk stratification in coronary artery disease using genetics and human-based computational models
+  subtitle: Ministry of Science and Innovation (MICINN), 2022-2024
+  description: Reference PID2021-128972OA-I00, to the value of 122,210 EUR, with PIs Ramirez and Munroe.
+  tags:
+    - funding
+
+- title: The genetic architecture of heart rate and the electrocardiogram at rest and during exercise
+  subtitle: Marie Sklodowska-Curie, 2019-2021
+  description: Reference 786833, to the value of 183,454 EUR.
+  tags:
+    - funding
+
+- title: Pathways of calcium signalling in atrial fibrillation highlighted by genomic and transcriptomic studies
+  subtitle: Medical Research Council (MRC), 2019-2022
+  description: Reference MR/T00052X/1, to the value of 246,443 GBP.
+  tags:
+    - funding
+
+- title: Ramón y Cajal - Dr Ramirez
+  subtitle: Ministry of Science and Innovation (MICINN), 2023-2028
+  description: Reference RYC2021-031413-I, to the value of 236,350 EUR.
+  tags:
+    - funding
+
+- title: William Harvey International Translational Research Academy, International Fellowship Programme (WHRI-ACADEMY)
+  subtitle: European Commission, 2017-2018
+  description: Reference PCOFUND-GA-2013-608765, to the value of 69,272 EUR. Funded under the Seventh Framework Programme for Research and Technological Development, Marie Curie Actions - People, Co-funding of regional, national and international programmes (COFUND).
+  tags:
+    - funding
+
+
 #
 #Collaborations and Partnerships
 #
-#Collaboration Title	CHARGE-EKG Working Group
-#Contributions Made	We have provided data from UK Biobank analyses of ECG phenotypes to genetic studies.
-#Partner Contributions	This collaboration is providing access to datasets for genetic analyses of heart rate and other ECG phenotypes which are the focus of our research actives and outcome data for prediction testing.
-#Year Commenced	2017
-#Year Ended	Still Active
-#URL	http://www.chargeconsortium.com
-#Resultant Outcomes	PMID: 30012220
-#Categorisation of impact	No impact yet
-#Formally Governed	Yes
 
-
-
-
-########## TESTS BELOW
-
-
-- title: Dataset
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  #repo: greenelab/lab-website-template
+- title: CHARGE-EKG Working Group
+  subtitle: 2017-ongoing
+  description: We have provided data from UK Biobank analyses of ECG phenotypes to genetic studies. This collaboration is providing access to datasets for genetic analyses of heart rate and other ECG phenotypes which are the focus of our research actives and outcome data for prediction testing.
+  link: http://www.chargeconsortium.com
   tags:
-    - dataset
-
-- title: Predicting something
-  subtitle: model
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  #repo: greenelab/lab-website-template
-  tags:
-    - software
-    - dataset
-
-- title: Award
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  tags:
-    - award
-
-- title: Engagement
-  subtitle: funded by someone
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  tags:
-    - engagement
-    - funding
-
+    - collaboration
 
