@@ -26,8 +26,9 @@ The **Electrogenomics group** was established in 2015 by Professors Munroe, Lamb
 
 {%
   include feature.html
+  image="images/photo-construction.jpg"
   link="publications"
-  title="Our Research"
+  title="Our Publications"
   text=text
 %}
 
