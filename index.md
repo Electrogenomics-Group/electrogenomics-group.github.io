@@ -11,7 +11,7 @@ The **Electrogenomics group** was established in 2015 by Professors Munroe, Lamb
 
 {% capture text %}
 
-🚧 👷 Work in progress, please come back later! 
+We study complex phenotypes of cardiac electrophysiology and response to heart rate dynamics. Building on recent publications by the group, further studies are underway to improve our understanding of the mechanisms linking genetics, functional biology, electrophysiology and cardiovascular disease, and the integration of these biomarkers to optimise risk prediction of cardiac events.
 
 {%
   include button.html
@@ -26,7 +26,7 @@ The **Electrogenomics group** was established in 2015 by Professors Munroe, Lamb
 
 {%
   include feature.html
-  image="images/photo-construction.jpg"
+  image="images/front_figure1.jpeg"
   link="publications"
   title="Our Publications"
   text=text
@@ -34,7 +34,7 @@ The **Electrogenomics group** was established in 2015 by Professors Munroe, Lamb
 
 {% capture text %}
 
-🚧 👷 Work in progress, please come back later! 
+Our research activities and impactful public engagement efforts have been acknowledged through awards, funding and recognitions from leading conferences, consortia, institutions, and by press attention.
 
 {%
   include button.html
@@ -49,7 +49,7 @@ The **Electrogenomics group** was established in 2015 by Professors Munroe, Lamb
 
 {%
   include feature.html
-  image="images/photo-construction.jpg"
+  image="images/front_figure2.jpeg"
   link="research"
   title="Our Research"
   flip=true
@@ -59,7 +59,7 @@ The **Electrogenomics group** was established in 2015 by Professors Munroe, Lamb
 
 {% capture text %}
 
-🚧 👷 Work in progress, please come back later! 
+Our team includes world-leading experts in cardiac electrophysiology, genetics and biomedical engineering; with talented research fellows and PhD students with bioengineering, clinical, genetics and computational training.
 
 {%
   include button.html
