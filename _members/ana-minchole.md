@@ -7,7 +7,9 @@ role:
 group:
 aliases:
   - A. Mincholé
+  - A. Minchole
   - Ana Minchole
+  - Ana Mincholé
 links:
   email: minchole@unizar.es
   home-page: https://bsicos.i3a.es/ana-minchole-lapuente/

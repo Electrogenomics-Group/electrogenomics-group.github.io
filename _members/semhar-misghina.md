@@ -7,6 +7,7 @@ role:
 group:
 aliases:
   - S. Misghina
+  - Semhar Misghina
 links:
 ---
 

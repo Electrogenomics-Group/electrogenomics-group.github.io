@@ -9,6 +9,9 @@ aliases:
   - D. Villar
   - D. V. Lozano
   - D. Lozano
+  - Diego Villar
+  - Diego V. Lozano
+  - Diego Lozano
 links:
   email: d.villarlozano@qmul.ac.uk
   home-page: https://www.qmul.ac.uk/blizard/all-staff/profiles/diego-villar.html

@@ -7,6 +7,7 @@ role:
 group:
 aliases:
   - R. Shah
+  - Ravi Shah
 links:
   email: ravi.s@ucl.ac.uk
 ---

@@ -7,6 +7,7 @@ role:
 group:
 aliases:
   - M. Orini
+  - Michele Orini
 links:
   email: m.orini@kcl.ac.uk
   home-page: https://www.kcl.ac.uk/people/michele-orini

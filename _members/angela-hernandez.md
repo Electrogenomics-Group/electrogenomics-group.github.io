@@ -6,6 +6,10 @@ affiliation: I3A, UNIZAR, Spain
 role:
 group:
 aliases:
+  - Angela Hernández Mendoza
+  - Angela Hernandez Mendoza
+  - Angela Hernández
+  - Angela Hernandez
   - A. Hernández Mendoza
   - A. Hernandez Mendoza
   - A. Hernández

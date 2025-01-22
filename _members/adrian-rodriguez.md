@@ -7,6 +7,7 @@ role:
 group:
 aliases:
   - A. Rodriguez
+  - Adrian Rodriguez
 links:
   email: adrian.rodriguez@qmul.ac.uk
 ---

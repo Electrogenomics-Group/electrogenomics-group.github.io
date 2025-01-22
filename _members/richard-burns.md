@@ -7,6 +7,7 @@ role:
 group:
 aliases:
   - R. Burns
+  - Richard Burns
 links:
   email: richard.burns@qmul.ac.uk
   orcid: 0000-0001-8526-5603

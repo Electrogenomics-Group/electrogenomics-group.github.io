@@ -8,6 +8,10 @@ group:
 aliases:
   - W. J. Young
   - W. Young
+  - William J. Young
+  - William Young
+  - Will J. Young
+  - Will Young
 links:
   email: w.young@qmul.ac.uk
   twitter: "@williamjyoung5"

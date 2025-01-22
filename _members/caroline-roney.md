@@ -7,6 +7,7 @@ role:
 group:
 aliases:
   - C. Roney
+  - Caroline Roney
 links:
   email: c.roney@qmul.ac.uk
   home-page: https://www.sems.qmul.ac.uk/staff/c.roney

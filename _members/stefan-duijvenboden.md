@@ -8,6 +8,7 @@ group:
 aliases:
   - S. v. Duijvenboden
   - S. van Duijvenboden
+  - Stefan van Duijvenboden
 links:
   email: s.vanduijvenboden@qmul.ac.uk
   home-page: https://www.bdi.ox.ac.uk/Team/stefan-van-duijvenboden

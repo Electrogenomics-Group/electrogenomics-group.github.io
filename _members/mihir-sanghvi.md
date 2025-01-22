@@ -7,6 +7,7 @@ role:
 group:
 aliases:
   - M. Sanghvi
+  - Mihir Sanghvi
 links:
   email: m.sanghvi@qmul.ac.uk
   orcid:  0000-0002-1914-4149

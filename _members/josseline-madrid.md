@@ -7,6 +7,7 @@ role:
 group:
 aliases:
   - J. Madrid
+  - Josseline Madrid
 links:
   email: jmadrid@unizar.es
   home-page: https://bsicos.i3a.es/josseline-madrid/

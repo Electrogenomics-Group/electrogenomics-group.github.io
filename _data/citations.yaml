@@ -1336,3 +1336,99 @@
   link: https://doi.org/gpf5bb
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1161/JAHA.123.034760
+  title: "Genome\u2010Wide Interaction Analyses of Serum Calcium on Ventricular Repolarization\
+    \ Time in 125\u2009393 Participants"
+  authors:
+  - William J. Young
+  - Peter J. van der Most
+  - Traci M. Bartz
+  - Maxime M. Bos
+  - Ginevra Biino
+  - ThuyVy Duong
+  - Luisa Foco
+  - Jesus T. Lominchar
+  - "Martina M\xFCller\u2010Nurasyid"
+  - Giuseppe Giovanni Nardone
+  - Alessandro Pecori
+  - Julia Ramirez
+  - Linda Repetto
+  - Katharina Schramm
+  - Xia Shen
+  - Stefan van Duijvenboden
+  - Diana van Heemst
+  - Stefan Weiss
+  - Jie Yao
+  - "Jan\u2010Walter Benjamins"
+  - Alvaro Alonso
+  - Beatrice Spedicati
+  - Mary L. Biggs
+  - Jennifer A. Brody
+  - "Marcus D\xF6rr"
+  - Christian Fuchsberger
+  - "Martin G\xF6gele"
+  - Xiuqing Guo
+  - M. Arfan Ikram
+  - J. Wouter Jukema
+  - "Stefan K\xE4\xE4b"
+  - "J\xF8rgen K. Kanters"
+  - Henry J. Lin
+  - Allan Linneberg
+  - Matthias Nauck
+  - Ilja M. Nolte
+  - Giulia Pianigiani
+  - Aurora Santin
+  - Elsayed Z. Soliman
+  - Paola Tesolin
+  - Simona Vaccargiu
+  - Melanie Waldenberger
+  - Pim van der Harst
+  - Niek Verweij
+  - Dan E. Arking
+  - Maria Pina Concas
+  - Alessandro De Grandi
+  - Giorgia Girotto
+  - Niels Grarup
+  - Maryam Kavousi
+  - "Dennis O. Mook\u2010Kanamori"
+  - Pau Navarro
+  - Michele Orini
+  - Sandosh Padmanabhan
+  - Cristian Pattaro
+  - Annette Peters
+  - Mario Pirastu
+  - Peter P. Pramstaller
+  - Susan R. Heckbert
+  - Mortiz Sinner
+  - Harold Snieder
+  - "Uwe V\xF6lker"
+  - James F. Wilson
+  - W. James Gauderman
+  - Pier D. Lambiase
+  - Nona Sotoodehnia
+  - Andrew Tinker
+  - Helen R. Warren
+  - Raymond Noordam
+  - Patricia B. Munroe
+  publisher: Journal of the American Heart Association
+  date: '2024-09-03'
+  link: https://doi.org/g7hr6w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.hrthm.2024.01.008
+  title: The frequency of gene variant reclassification and its impact on clinical
+    management in the inherited arrhythmia clinic
+  authors:
+  - William J. Young
+  - Soe Maung
+  - Selda Ahmet
+  - Claire Kirkby
+  - Charlotte Ives
+  - Richard J. Schilling
+  - Martin Lowe
+  - Pier D. Lambiase
+  publisher: Heart Rhythm
+  date: '2024-06-01'
+  link: https://doi.org/g82rdn
+  plugin: sources.py
+  file: sources.yaml

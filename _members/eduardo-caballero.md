@@ -7,8 +7,12 @@ role:
 group:
 aliases:
   - Eduardo Caballero Saldivar
+  - Eduardo Saldivar
+  - Eduardo C. Saldivar
+  - Eduardo Caballero
   - E. C. Saldivar
   - E. Caballero 
+  - E. Saldivar 
 links:
   email: ecaballero@unizar.es
   home-page: https://bsicos.i3a.es/eduardo-caballero-saldivar/

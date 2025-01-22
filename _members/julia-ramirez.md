@@ -9,6 +9,7 @@ aliases:
   - J. Ramírez
   - J. Ramirez
   - Julia Ramirez
+  - Julia Ramírez
 links:
   email: Julia.Ramirez@unizar.es
   home-page: https://juliaramirez.net/

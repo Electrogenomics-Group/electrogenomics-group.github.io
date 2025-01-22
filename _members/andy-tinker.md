@@ -8,6 +8,7 @@ group:
 aliases:
   - A. Tinker
   - Andrew Tinker
+  - Andy Tinker
 links:
   email: a.tinker@qmul.ac.uk
   home-page: https://www.qmul.ac.uk/whri/people/academic-staff/items/tinkerandrew.html

@@ -7,6 +7,8 @@ role:
 group:
 aliases:
   - T. Kaplan
+  - Tom Kaplan
+  - Thomas Kaplan
 links:
   email: t.kaplan@qmul.ac.uk
   home-page: https://kappers.github.io

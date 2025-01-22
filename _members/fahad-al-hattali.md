@@ -7,6 +7,7 @@ role:
 group:
 aliases:
   - Fahad Hattali
+  - Fahad Al Hattali
   - F. Hattali
   - F. A. Hattali
 links:

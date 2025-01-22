@@ -7,6 +7,7 @@ role:
 group:
 aliases:
   - H. Naderi
+  - Hafiz Naderi
 links:
   email: h.naderi@qmul.ac.uk
   orcid:  0000-0002-3217-780X
