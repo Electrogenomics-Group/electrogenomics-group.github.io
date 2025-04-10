@@ -1,117 +1,139 @@
 #
 # Awards
-#
+
+
+- title: Runner-up, Young Investigator Award, American College of Cardiology 2025
+  subtitle: Mihir Sanghvi
+  description: 'Awarded Young Investigator runner-up prize and $1000 for work on a novel sarcopenic obesity phenotype at the American College of Cardiology 74th Annual Scientific Session in Chicago.'
+  image: images/mihir-younginvestigaward-acc2025.jpg
+  group: featured
+  date: 2025-01-01
+  tags:
+    - Award
 
 - title: Winner of best short talk of poster, Oxford BHF CRE annual symposium 2022
   subtitle: Stefan van Duijvenboden
   description:  'Awarded for the work on "Prognostic value of exercise-induced ventricular ectopy in asymptomatic individuals", Stefan van Duijvenboden, Julia Ramirez, Michele Orini, Aiden Doherty, Andrew Tinker, Patricia B. Munroe, Pier D. Lambiase. The award was made for our research work and delivery.'
+  date: 2022-01-01
   tags:
-    - award
+    - Award
 
 - title: ESC-CinC Clinical Needs Translational Award 2018
   description:  "International award received by J. Ramírez, S. van Duijvenboden, P. Laguna, A Tinker, P Lambiase, P Munroe and M Orini for their work entitled 'Cardiovascular Risk Based on the HR Profile Morphology' at the Computing in Cardiology Meeting in 2018. Maastricht, The Netherlands. The prize included a cheque (US$500 + €500) and a commemorative diploma for communication."
+  date: 2018-01-01
   tags:
-    - award
-    - funding
+    - Award
 
 - title: Early career researcher award, CHARGE consortium 2021
   subtitle:  William Young
   description: Early Career Award, CHARGE consortium, for contributions to the CHARGE EKG working group and leadership on multiple projects.
   link: https://www.chargeconsortium.com/main/golden-tigers/
+  date: 2021-01-01
   tags:
-    - award
-    - collaboration
+    - Award
+    - Collaboration
 
 - title: European Atherosclerosis Society Young Investigator 2022
   subtitle: Julia Ramirez
   description: Complimentary Congress registration, 1-year membership subscription and €400 towards travel and accommodation.
   link: https://www.eas-society.org/page/YI_fellowship_2021
+  date: 2022-01-01
   tags:
-    - award
-    - funding
+    - Award
 
 - title: BCS/BAS/BSCR Young Investigators Award Competition Runner-up 2021
   subtitle: Julia Ramirez
   description: £500 prize for one of the 4 best abstracts submitted to the BCS conference.
   link: https://www.britishcardiovascularsociety.org/conference/abstracts
+  date: 2021-01-01
   tags:
-    - award
-    - funding
+    - Award
 
 - title: Tercer Milenio Young Investigator Award Individual 2022
   subtitle: Julia Ramirez
   description: Julia Ramirez was recognized as the best young investigator of the year by Spanish Newspaper 'Heraldo de Aragon'
+  date: 2022-01-01
   tags:
-    - award
+    - Award
 
 - title: Aragon Investiga Young Investigator 2022
   subtitle: Julia Ramirez
   description: Julia Ramirez was recognized as the best young investigator of the year by The Aragon Government
+  date: 2022-01-01
   tags:
-    - award
+    - Award
 
 - title: Runner up for the Best Poster Award at the “A to Z of Sudden Cardiac Death Conference” 2018
   description: Runner up prize awarded for the abstract "Sixteen loci identified for T-wave morphology changes in response to exercise and recovery from UK Biobank implicate genes governing ventricular repolarization". J. Ramírez, S. van Duijvenboden, M. Orini et al. It included a £200 prize.
+  date: 2018-01-01
   tags:
-    - award
-    - funding
+    - Award
 
 - title: Winner, Best of the Best Clinical Science Abstract, British Cardiovascular Society 2019
   description: Awarded within Cardiac Rhythm Management abstracts at the British Cardiovascular Society Annual Conference for "Cardiac Repolarization During Exercise Reveals Independent Prognostic information For Cardiovascular Risk Prediction". S. van Duijvenboden, J. Ramírez, M. Orini et al. It included a £250 prize.
+  date: 2019-01-01
   tags:
-    - award
+    - Award
 
 - title: Runner up, Best of the Best Clinical Science Abstract, British Cardiovascular Society 2019
   description: Runner up of the Best of the Best Clinical Science Abstract, for "The cardiovascular predictive value and genetic basis of T-wave morphology".  J. Ramírez, S. van Duijvenboden, P. Laguna, A. Tinker, P. Lambiase, M. Orini, P. Munroe
+  date: 2019-01-01
   tags:
-    - award
+    - Award
 
 - title: European Society of Cardiology Late Breaking Science Abstract Award 2022
   description: Award for the work by Ramírez, A. Kiviniemi, S. van Duijvenboden, J. Perkiomaki, H. Huikuri, A. Tinker, P.D. Lambiase, J. Junttila, M. Orini, P.B. Munroe, "Ventricular Arrhythmic Risk Prediction in Low- and Moderate-risk Populations Using a Single-Lead ECG Heartbeat". Our work was recognised as being important to merit inclusion in the late breaking session of this prestigious meeting. J Ramirez received complimentary congress registration.
+  date: 2022-01-01
   tags:
-    - award
+    - Award
 
 - title: e-cardiology Clinical Translation Award (European Society of Cardiology) 2023
-  group: featured
   description: In recognition for the conference paper "Ultra-Short Beat-to-Beat Repolarization Variability Predicts Cardiovascular Events in Individuals Without Cardiovascular Disease", Michele Orini, Stefan van Duijvenboden, Julia Ramírez, Will Young, Andrew Tinker, Patricia B Munroe, and Pier D Lambiase.
+  date: 2023-01-01
   tags:
-    - award
+    - Award
 
 - title: Invited Faculty, Heart Rhythm Society 2021
   subtitle: Patricia B Munroe
   description: Dissecting the Genetic Basis of the ECG as a Means of Understanding Arrhythmia Predisposition.
+  date: 2021-01-01
   tags:
-    - award
+    - Award
 
 - title: Invited Speaker, Cardiac Arrhythmia Symposium 2022
   subtitle: Patricia B Munroe
   description: 
+  date: 2022-01-01
   tags:
-    - award
+    - Award
 
 - title: Invited Speaker, Arrhythmia Alliance Heart Rhythm Congress 2022
   subtitle: Patricia B Munroe
   description:  Will an EP ever need to know how… and why… to edit a gene?
+  date: 2022-01-01
   tags:
-    - award
+    - Award
 
 - title: Invited Speaker, European Society of Human Genetics 2023
   subtitle: Patricia B Munroe
   description:  Polygenic risk score for prediction of atrial fibrillation and sudden cardiac death
+  date: 2023-01-01
   tags:
-    - award
+    - Award
 
 - title: Invited Speaker, European Society of Cardiology 2024
   subtitle: Michele Orini
   description: 'Invited speaker at the ESC conference in 2024. He presented his work entitled "Premature atrial and ventricular contractions detected on wearable-format electrocardiograms and prediction of cardiovascular events" in the session "Spotlight on innovation: top publications in the European Heart Journal - Digital Health 2023-2024".'
+  date: 2024-01-01
   tags:
-    - award
+    - Award
 
 - title: Invited Speaker, Heart Rhythm Society annual meeting, 2024
   subtitle: Patricia B Munroe
   description: 'Invited talk entitled "Genetic Architecture of Spatial Electrical Biomarkers For Cardiac Arrhythmia and Relationship With Cardiovascular Disease" at the annual HRS meeting in Boston, in May 2024.'
+  date: 2024-01-01
   tags:
-    - award
+    - Award
 
 #
 #Engagement Activities
@@ -121,73 +143,83 @@
   subtitle: Barts & Queen Mary Science festival, June 2021
   link: https://www.qmul.ac.uk/whri/patient-public-engagement/barts-and-queen-mary-science-festival/
   description: 16 pupils, their teacher and a member of the patient advisory panel attended a virtual session as part of the Barts Science Festival in June 2021 for a one hour session covering the relationships of heart rhythm disorders with genetics. This sparked many questions afterwards and a discussion. Four members of the team organised this activity.
+  date: 2021-01-01
   tags:
-    - engagement
+    - Engagement
 
 - title: Could your smart watch alert you to risk of sudden death?
   subtitle: BHF Press release
   link: https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2021/june/smart-watch-alert-to-risk-of-sudden-death?utm_campaign=~tw2021-194&utm_medium=social-organic&utm_source=&utm_content=&utm_term=
   description: This press release describes results from development of an algorithm able to quantify sudden cardiac death risk from a single beat in a single lead.
+  date: 2021-01-01
   tags:
-    - engagement
+    - Engagement
 
 - title: "Clinical Translation of Genetic Research: A Path from Academia to Industry"
   subtitle: Charterhouse Square, April 2018
   link: https://allevents.in/london/clinical-translation-of-genetic-research-a-path-from-academia-to-industry/1000043017286863
   description: "Mini-Symposium on 'Clinical Translation of Genetic Research: A Path from Academia to Industry', Wednesday 28th April 2018. London, UK. This activity was organised by the two post-docs on the grant - they were interested in engaging with other genetic researchers across academia and industry to gauge their experiences and set up new collaborations. The workshop was very well attended and excellent feedback was received which we have recorded."
+  date: 2018-01-01
   tags:
-    - engagement
+    - Engagement
 
 
 - title: Smart watches could detect risk of sudden cardiac death – and save lives
   subtitle: i Press release, June 2021
   link: https://inews.co.uk/news/health/smart-watches-could-detect-risk-sudden-cardiac-death-1037966
   description: This press release describes results from development of an algorithm able to quantify sudden cardiac death risk from a single beat in a single lead.
+  date: 2021-01-01
   tags:
-    - engagement
+    - Engagement
 
 
 - title: "Discovery of New Genes Modulating the Tpe Interval: an Electrocardiographic risk marker for Sudden Cardiac Death"
   subtitle: QMUL news, 2020
   link: https://www.qmul.ac.uk/whri/latest-news/items/discovery-of-new-genes-modulating-the-tpe-interval-an-electrocardiographic-risk-marker-for-sudden-cardiac-death-.html
   description: We wished to highlight our recent study discovering 38 new gene regions that influencing the Tpe interval, an electrocardiographic marker associated with susceptibility to malignant ventricular arrhythmias and sudden cardiac death. Feedback has included interest from students wishing to study with us.
+  date: 2020-01-01
   tags:
-    - engagement
+    - Engagement
 
 - title: QMUL and UCL joint study identifies genes linked to impaired capacity to modulate heart rate during and after exercise
   subtitle: QMUL news, 2018
   link: https://www.qmul.ac.uk/whri/news-and-events/2018/items/qmul-and-ucl-joint-study-identifies-genes-linked-to-impaired-capacity-to-modulate-heart-rate-during-and-after-exercise--.html
   description: This press release describes results from the first analysis investigating the genetic basis of how heart rate responds during and following exercise.
+  date: 2018-01-01
   tags:
-    - engagement
+    - Engagement
 
 - title: Scientists discover more than 200 genetic factors causing heart arrhythmias
   subtitle: QMUL news, 2020
   link: https://www.qmul.ac.uk/media/news/2020/smd/scientists-discover-more-than-200-genetic-factors-causing-heart-arrhythmias.html
   description: We wished to widely disseminate results from this study a wide audience as results could one day lead to advanced screening methods to discern who is at greatest risk of developing cardiovascular disease.
+  date: 2020-01-01
   tags:
-    - engagement
+    - Engagement
 
 - title: Genetics and the Electrocardiogram to predict arrhythmic risk
   subtitle: Let's Talk hearts, NIHS Barts BRC, 2022
   link: https://www.qmul.ac.uk/media/news/2020/smd/scientists-discover-more-than-200-genetic-factors-causing-heart-arrhythmias.html
   description: Let’s Talk Hearts is supported by NIHR Barts Biomedical Research Centre. It is open to all providing a forum to learn about heart conditions and latest research. Dr Ramirez described work from both her fellowship and the Electrogenomics group, showcasing the research we do. The session provoked lots of interest, questions and discussion to the local community.
+  date: 2022-01-01
   tags:
-    - engagement
+    - Engagement
 
 - title: Could your smart watch alert you to risk of sudden death?
   subtitle: QMUL news, 2021
   link: https://www.qmul.ac.uk/whri/latest-news/items/could-your-smart-watch-alert-you-to-risk-of-sudden-death.html
   description: This press release describes results from development of an algorithm able to quantify sudden cardiac death risk from a single beat in a single lead.
+  date: 2021-01-01
   tags:
-    - engagement
+    - Engagement
 
 - title: Role of Statistical Genetics in Assessing Cardiovascular Risk. Challenges and Potential
   subtitle: Computing in Cardiology, 2020
   link: https://cinc.org/archives/2020/
   description: This was a special session at the Computing in Cardiology conference in September 2020. The format was hybrid - participants online and in Rimini. Members of the group organised, chaired and presented at the session. The purpose was to introduce genetics to this meeting, highlighting our work and to encourage new collaborations. The feedback was excellent and there was over 100 attendees.
+  date: 2020-01-01
   tags:
-    - engagement
+    - Engagement
 
 #
 #Material Type	Dataset/Database/Collection of data
@@ -209,64 +241,73 @@
   subtitle: "Circulation: Genomic and Precision Medicine, 2020"
   link: https://www.ahajournals.org/doi/10.1161/CIRCGEN.119.002774
   description: Our results provide a resource for other investigators analysing risk factors for CV disease.
+  date: 2020-01-01
   tags:
-    - dataset
+    - Dataset
 
 - title: GWAS Summary statistics for resting dynamic Tpeak-to-Tend traits
   subtitle: American Society of Human Genetics, 2020
   link: https://doi.org/10.1016/j.ajhg.2020.04.009
   description: Our results provide a resource for other investigators analysing risk factors for CV disease.
+  date: 2020-01-01
   tags:
-    - dataset
+    - Dataset
 
 - title: GWAS Summary statistics for PR interval
   subtitle: Nature Communications, 2020
   link: https://www.nature.com/articles/s41467-020-15706-x
   description: Our results provide a resource for other investigators analysing risk factors for CV disease.
+  date: 2020-01-01
   tags:
-    - dataset
+    - Dataset
 
 - title: GWAS Summary statistics for TMR (repolarisation dynamics)
   subtitle: "Circulation: Arrhythmia and Electrophysiology, 2019"
   link: https://www.ahajournals.org/doi/10.1161/CIRCEP.119.007549
   description: Our results provide a resource for other investigators analysing risk factors for CV disease.
+  date: 2019-01-01
   tags:
-    - dataset
+    - Dataset
 
 - title: GWAS Summary statistics for resting QT interval
   subtitle: Human Molecular Genetics, 2021
   link:  https://doi.org/10.1093/hmg/ddab197
   description: Our results provide a resource for other investigators analysing risk factors for CV disease and genetic pleiotropy.
+  date: 2021-01-01
   tags:
-    - dataset
+    - Dataset
 
 - title: GWAS Summary statistics for resting QT interval
   subtitle: "Circulation: Genomic and Precision Medicine, 2021"
   link:  https://www.ahajournals.org/doi/10.1161/CIRCGEN.120.003231 
   description: Our results provide a resource for other investigators analysing risk factors for other related diseases.
+  date: 2021-01-01
   tags:
-    - dataset
+    - Dataset
 
 - title: Lead GWAS variants for QT, JT intervals and QRS duration
   subtitle: Nature Communications, 2022
   link: https://www.nature.com/articles/s41467-022-32821-z
   description: We provide lead variants from multi-ancestry and ancestry specific analyses of the QT, JT intervals and QRS duration from genome-wide association study. We also highlighted potential druggable targets. The data has been made freely available on GWAS catalog. This data will be used by other researchers to explore biological mechanisms of disease and develop risk stratification tools.
+  date: 2022-01-01
   tags:
-    - dataset
+    - Dataset
 
 - title: Lead GWAS variants for spatial and frontal QRS-T angles
   subtitle: Nature Communications, 2023
   link: https://www.nature.com/articles/s41467-023-36997-w
   description: We provide lead variants from multi-ancestry and ancestry specific analyses of the frontal and spatial QRS-T angles from genome-wide association study. The data has been made freely available on GWAS catalog. This data will be used by other researchers to explore biological mechanisms of disease and develop risk stratification tools.
+  date: 2023-01-01
   tags:
-    - dataset
+    - Dataset
 
 - title: Exome-chip meta-analysis identifies novel loci associated with cardiac conduction, including ADAMTS6
   subtitle: Genome Biology, 2018
   link: https://springernature.figshare.com/articles/dataset/Additional_file_1_of_Exome-chip_meta-analysis_identifies_novel_loci_associated_with_cardiac_conduction_including_ADAMTS6/6823781/1?file=12416675
   description: Additional file 1 provided. Additionally, Table S1. Cohort characteristics; Table S2. Single SNP meta-analyses; Table S3. Sex-stratified analyses; Table S4. SKAT analyses; Table S5. T1-burden analyses; Table S6. ADAMTS6 variant details; Table S7. Cardiac phenotype distribution in Adamts6 mutant mice.
+  date: 2018-01-01
   tags:
-    - dataset
+    - Dataset
 
 
 #
@@ -277,38 +318,44 @@
   subtitle: Medical Research Council (MRC), 2018-2021
   link: https://gtr.ukri.org/projects?ref=MR%2FR017468%2F1&pn=0&fetchSize=25&selectedSortableField=parentPublicationTitle&selectedSortOrder=ASC
   description: Reference MR/R017468/1, to the value of 206,595 GBP.
+  date: 2018-01-01
   tags:
-    - funding
+    - Funding
 
 - title: ECG morphology clusters for sudden cardiac death risk stratification in coronary artery disease using genetics and human-based computational models
   subtitle: Ministry of Science and Innovation (MICINN), 2022-2024
   description: Reference PID2021-128972OA-I00, to the value of 122,210 EUR, with PIs Ramirez and Munroe.
+  date: 2022-01-01
   tags:
-    - funding
+    - Funding
 
 - title: The genetic architecture of heart rate and the electrocardiogram at rest and during exercise
   subtitle: Marie Sklodowska-Curie, 2019-2021
   description: Reference 786833, to the value of 183,454 EUR.
+  date: 2019-01-01
   tags:
-    - funding
+    - Funding
 
 - title: Pathways of calcium signalling in atrial fibrillation highlighted by genomic and transcriptomic studies
   subtitle: Medical Research Council (MRC), 2019-2022
   description: Reference MR/T00052X/1, to the value of 246,443 GBP.
+  date: 2019-01-01
   tags:
-    - funding
+    - Funding
 
 - title: Ramón y Cajal - Dr Ramirez
   subtitle: Ministry of Science and Innovation (MICINN), 2023-2028
   description: Reference RYC2021-031413-I, to the value of 236,350 EUR.
+  date: 2023-01-01
   tags:
-    - funding
+    - Funding
 
 - title: William Harvey International Translational Research Academy, International Fellowship Programme (WHRI-ACADEMY)
   subtitle: European Commission, 2017-2018
   description: Reference PCOFUND-GA-2013-608765, to the value of 69,272 EUR. Funded under the Seventh Framework Programme for Research and Technological Development, Marie Curie Actions - People, Co-funding of regional, national and international programmes (COFUND).
+  date: 2017-01-01n
   tags:
-    - funding
+    - Funding
 
 
 #
@@ -319,6 +366,7 @@
   subtitle: 2017-ongoing
   description: We have provided data from UK Biobank analyses of ECG phenotypes to genetic studies. This collaboration is providing access to datasets for genetic analyses of heart rate and other ECG phenotypes which are the focus of our research actives and outcome data for prediction testing.
   link: http://www.chargeconsortium.com
+  date: 2017-01-01
   tags:
-    - collaboration
+    - Collaboration
 

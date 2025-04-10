@@ -2,21 +2,22 @@
 ---
 
 # About
-
-The **Electrogenomics group** was established in 2015 by Professors Munroe, Lambiase and Tinker. This is a collaboration between the [William Harvey Research Centre](https://www.qmul.ac.uk/whri/) at QMUL and UCL’s [Institute of Cardiovascular Science](https://www.ucl.ac.uk/cardiovascular/ucl-institute-cardiovascular-science). We joined forces in a broad scale attempt to unravel the electrical and genetic causes of cardiovascular mortality. The team includes world-leading experts in cardiac electrophysiology ([Prof. Andy Tinker, QMUL](https://www.qmul.ac.uk/whri/people/academic-staff/items/tinkerandrew.html) and [Prof. Pier Lambiase UCL](https://profiles.ucl.ac.uk/878-pier-lambiase)), genetics ([Prof. Patricia Munroe, QMUL](https://www.qmul.ac.uk/whri/people/academic-staff/items/munroepatricia.html)) and biomedical engineering ([Dr. Michele Orini, KCL](https://kclpure.kcl.ac.uk/portal/en/persons/m.orini)), with talented research fellows and PhD students with bioengineering, clinical and genetics training.
+The **Electrogenomics group** was established in 2015 by Professors [Munroe](https://www.qmul.ac.uk/whri/people/academic-staff/items/munroepatricia.html), [Lambiase](https://profiles.ucl.ac.uk/878-pier-lambiase), [Tinker](https://www.qmul.ac.uk/whri/people/academic-staff/items/tinkerandrew.html) and Dr [Orini](https://kclpure.kcl.ac.uk/portal/en/persons/m.orini), and initially funded by the Medical Research Council. Our research goal is to unravel the electrical and genetic causes of cardiovascular mortality. Since 2017, we have received funding and support from the BHF UKRI, NIHR and the EU. We are a collaborative group and based at  the William Harvey Research Centre at QMUL,  UCL Institute of Cardiovascular Science, University of Zaragoza, Kings College London and University of Oxford. 
 
 {% include section.html %}
 
 ## Highlights
 
+
 {% capture text %}
 
-We study complex phenotypes of cardiac electrophysiology and response to heart rate dynamics. Building on recent publications by the group, further studies are underway to improve our understanding of the mechanisms linking genetics, functional biology, electrophysiology and cardiovascular disease, and the integration of these biomarkers to optimise risk prediction of cardiac events.
+Our team includes world-leading experts in cardiac electrophysiology, clinician scientists, biomedical engineering, computational medicine, genetics, epigenetics and functional genomics. Our group also comprises PhD students and Post-Doctoral researchers and we are very happy to host research internships and studentships.
+
 
 {%
   include button.html
-  link="publications"
-  text="See our publications"
+  link="team"
+  text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,11 +27,12 @@ We study complex phenotypes of cardiac electrophysiology and response to heart r
 
 {%
   include feature.html
-  image="images/front_figure1.jpeg"
-  link="publications"
-  title="Our Publications"
+  image="images/team-logos.png"
+  link="team"
+  title="Our Team"
   text=text
 %}
+
 
 {% capture text %}
 
@@ -59,12 +61,12 @@ Our research activities and impactful public engagement efforts have been acknow
 
 {% capture text %}
 
-Our team includes world-leading experts in cardiac electrophysiology, genetics and biomedical engineering; with talented research fellows and PhD students with bioengineering, clinical, genetics and computational training.
+We study complex phenotypes of cardiac electrophysiology and response to heart rate dynamics. Building on recent publications by the group, further studies are underway to improve our understanding of the mechanisms linking genetics, functional biology, electrophysiology and cardiovascular disease, and the integration of these biomarkers to optimise risk prediction of cardiac events.
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="publications"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -74,9 +76,9 @@ Our team includes world-leading experts in cardiac electrophysiology, genetics a
 
 {%
   include feature.html
-  image="images/photo-construction.jpg"
-  link="team"
-  title="Our Team"
+  image="images/front_figure1.jpeg"
+  link="publications"
+  title="Our Publications"
   text=text
 %}
 

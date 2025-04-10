@@ -11,12 +11,6 @@ Our group is a geographically distributed team, but meets regularly at [Charterh
 
 {%
   include button.html
-  type="email"
-  text="t.kaplan@qmul.ac.uk"
-  link="t.kaplan@qmul.ac.uk"
-%}
-{%
-  include button.html
   type="address"
   tooltip="Our QMUL location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/APmiQYKoqcRgnxzn6"
