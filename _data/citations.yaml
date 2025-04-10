@@ -1408,6 +1408,7 @@
   publisher: Circulation
   date: '2024-07-30'
   link: https://doi.org/g89qg2
+  image: https://www.ahajournals.org/cms/10.1161/CIRCULATIONAHA.123.064633/asset/7d944cda-d768-4e15-8478-bc4f2ee0294b/assets/graphic/circulationaha.123.064633.fig02.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s00439-024-02684-z
