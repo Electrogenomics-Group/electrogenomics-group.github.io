@@ -11,7 +11,7 @@ nav:
 
 ## Latest
 
-{% include citation.html lookup="Unsupervised clustering of single-lead electrocardiograms" style="rich" %}
+{% include citation.html lookup="Unsupervised clustering of single-lead electrocardiograms" style="richer" %}
 
 {% include section.html %}
 
