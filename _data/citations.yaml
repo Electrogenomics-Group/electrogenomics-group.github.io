@@ -1516,6 +1516,7 @@
   publisher: ''
   date: ''
   link: https://doi.org/10.1016/j.jocmr.2025.101919
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S109766472500081X-ga1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1186/s13148-026-02076-2
@@ -1598,6 +1599,7 @@
   publisher: Europace
   date: '2026-02-03'
   link: https://academic.oup.com/europace/article/doi/10.1093/europace/euag015/8441735
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/europace/28/2/10.1093_europace_euag015/1/m_euag015_ga.jpeg?Expires=1783456366&Signature=IpT2uLw4Oyhw6df2wV~2CSpfwgBl9FjeBVgceq6U2HlA7jlCtpQxII6I6ztiaBFtKNqZbJOvix8-kFdbJnGlK4S3E4h7Q8ufcKkkpGy39iNLjF6HC9kEOHy80fvHTCMRnT1E0AaAfBkHWJwpE-vEE~tvN3cI73u0dYv3LOqDTP3fTT3CXNnXJEU9WssKf7FO4HxL0dXDicNqJYiiayx3hzscVhwkBBE-PrOm3C2Zfr8bIc8mlimt30s0VRhU8ZdpD-ACtKKWOZlkKNx0fb5vc9TML50OHWL8x-1wnLxq8GBXIsPuh1CpC2i-i8~m5Bg6hAhr2If3gRYpl1eIjcFJEA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1093/ehjimp/qyaf168
@@ -1615,6 +1617,7 @@
   publisher: European Heart Journal - Imaging Methods and Practice
   date: '2026-01-01'
   link: https://academic.oup.com/ehjimp/article/doi/10.1093/ehjimp/qyaf168/8424380
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ehjimp/4/1/10.1093_ehjimp_qyaf168/1/m_qyaf168_ga.jpeg?Expires=1783448228&Signature=yI0zh5BMBNvD6z4w~J7tzqqqIHsbn4UdcgYKWLALotFiK-ZoD2syStWC-PwcPlhNCc9-~DE2orz1RdJKl2aE1eFdyMDdwsEHaPLqPNY2OISbUxFke5YjKz9uRmFoAttL1h5-BAFMavGkFApFC-oLv4KqnqT~9eqSXsGnB3nUnBW8xo0r1HaAoxgjge~tb5HHRggvrskRMMzTKhdwVhngdy8XkeX~WIerZ5KSHZZ9fNMLqDQkX9HMwBWXy7lCiTd8SppsaLPChZ03NbHJ7igoKicWJVNdDvhiOoyHYbTpBxAqZBteccmpFLyPtHRRNPgexzLdlsgMfs7yIypBDLU2UQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1093/eurheartj/ehaf530
@@ -1627,6 +1630,7 @@
   publisher: European Heart Journal
   date: '2026-01-16'
   link: https://academic.oup.com/eurheartj/article/47/3/343/8280491
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/eurheartj/47/3/10.1093_eurheartj_ehaf530/1/m_ehaf530_ga.jpeg?Expires=1783454723&Signature=PpKAqEraj~hDfaUYCwo~hCBCok2YwhgxxFDp961we40uRgdFSqG69GuIo6O~Sx06JuPAsLUjq1rhDhIF-0XSyrKjWl6L46FEHLI-NS3JnKEZfmTjmhzcHB3UF8stmwOeqX22RE2-RYA~3p~wJAvIYjCIStdTXmqZgfx3kZuv3SIRBjpLmd2d2AH5BH57Io2TDa2FdoJkoSdMGAhC0YE4lOrFAnSwGrkWf2IL6K9zXs12g4NpRX7KOOiMR6chu4iNVTi5yZJMppDEE5qkArC5aqIRCyLYObU1hLbCyKKU7bbrFARXI4SSz9oVSpSNFwe9uS4lC7ardrXeglmHUYT-~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.64898/2026.04.19.26350940
@@ -1654,6 +1658,7 @@
   publisher: European Heart Journal
   date: '2026-01-09'
   link: https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf1067/8418280
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/eurheartj/PAP/10.1093_eurheartj_ehaf1067/1/m_ehaf1067_ga.jpeg?Expires=1783446770&Signature=yeIROeefsAcAsTaF8MaFC6eHGxEQ6Tjrgprq1gk0RpQTai5Rv2qiFKdRdODoojD7Cmf1qc-RSqcWHrZQwI1jR5b~3pz~kutrkLWXX4DPAFFS~xQJkdYlsBTSeUBwPf8kz-rivXRkWg9nAd9d1psRsGu~V5MDwcH4jSsgyv31dXNfxbqfKi~1GOfZMEHSaWlJ8o4ID0N-EZ6ekdZ61vZxV4Sn1Bx~DDEbHjejV9AFtGXF~dntGv57NVO6NTATNWeo-FZWoINhuNg-gvf6hwMZj-d-TKEAVFan57i4KJoc-Uopg3KZOFCPPQhuJoMw8SQocC13bikKyyTsmGu9L0YAQA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1093/europace/euaf103
@@ -1671,6 +1676,7 @@
   publisher: Europace
   date: '2025-06-03'
   link: https://academic.oup.com/europace/article/doi/10.1093/europace/euaf103/8129738
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/europace/27/6/10.1093_europace_euaf103/2/m_euaf103_ga.jpeg?Expires=1783678628&Signature=W1Ijz55P5Fe8vv2exH-rKkP5uQQV4Nx53IyYgI4IoR-vZHOo-YXIMiR~j8eKiGBBYz0aVQPTmp0n1AtXZ5XBFMmcYwRCAM3Qnflz5mtWAZA4N4qqFS9EqVTyLaP0F6Fn6vrLJKJZ4kLG7bO9cl2KsPXOC5ZbCPvFdB6LZAdPJ0xWnCLvKjkTBxWJSajt8FWvnVOiBte04LTtwwbG-Ft24wVN9wj4Id3H3QJoVUWzAF1SsdNsJkJQHM4j14UhyAsemPNwavx3lrre8oDB21AFh3ZOyBKQFLR9kWu4Dpq7GbzcxQC2SvgjNu~~6wdeHzV03BOQjJ21M-5S2sMyQhYgVg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1161/ATVBAHA.125.319221
@@ -1686,6 +1692,7 @@
   publisher: Arteriosclerosis, Thrombosis, and Vascular Biology
   date: '2025-06-01'
   link: https://www.ahajournals.org/doi/10.1161/ATVBAHA.125.319221
+  image: https://www.ahajournals.org/cms/10.1161/ATVBAHA.125.319221/asset/bec55a41-98cd-411b-927c-84cc6a82c031/assets/graphic/atvbaha.125.319221.fig06.jpg
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1038/s44161-026-00787-6
