@@ -1443,7 +1443,7 @@
   - William J. Young
   - Patricia B. Munroe
   publisher: Heart Rhythm
-  date: '2024-12-01'
+  date: '2025-09-01'
   link: https://doi.org/g89qg4
   image: https://www.heartrhythmjournal.com/cms/10.1016/j.hrthm.2024.12.017/asset/074a1aab-5912-4c8b-954c-0da05241f846/main.assets/gr1_lrg.jpg
   plugin: sources.py
@@ -1508,5 +1508,211 @@
   date: '2023-11-26'
   link: https://doi.org/g89qg6
   image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10363763/10363691/10364144/10364144-fig-4-source-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1016/j.jocmr.2025.101919
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/10.1016/j.jocmr.2025.101919
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1186/s13148-026-02076-2
+  title: An epigenomic investigation of atrial fibrillation in a matched left and
+    right atrial human cohort
+  authors:
+  - Adrian Rodriguez
+  - Stephanie Frost
+  - Alison M. Thomas
+  - Diego Fernandez-Aroca
+  - Jishan Choudhury
+  - Georgios Tikkas
+  - Andrew Tinker
+  - Patricia B. Munroe
+  - Christopher G. Bell
+  - Diego Villar
+  publisher: Clinical Epigenetics
+  date: '2026-03-29'
+  link: https://doi.org/10.1186/s13148-026-02076-2
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.64898/2026.02.23.26346310
+  title: 'Population-Wide Assessment of Heart Rhythm and Physical Activity from 14-Day
+    Recordings: The UK Biobank Cardiac Monitoring Study'
+  authors:
+  - Stefan Van Duijvenboden
+  - Ahmed El-Medany
+  - Hesham Aggour
+  - Michele Orini
+  - Wenjia Bai
+  - John E J Gallacher
+  - Jemma C Hopewell
+  - Stephen Bell
+  - Fu Siong Ng
+  - Aiden Doherty
+  - Barbara Casadei
+  publisher: Cardiovascular Medicine
+  date: '2026-02-24'
+  link: http://medrxiv.org/lookup/doi/10.64898/2026.02.23.26346310
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1002/ana.70010
+  title: Heart Rate Profiles During Exercise and Incident Parkinson's Disease
+  authors:
+  - Stefan Van Duijvenboden
+  - "Julia Ram\xEDrez"
+  - Job Scheurink
+  - Sirwan K. L. Darweesh
+  - Michele Orini
+  - Andrew Tinker
+  - Patricia B. Munroe
+  - Jos Thannhauser
+  - Luc Evers
+  - Joanna IntHout
+  - Pier D. Lambiase
+  - Bastiaan R. Bloem
+  - Aiden Doherty
+  - Marc A. Brouwer
+  publisher: Annals of Neurology
+  date: '2025-11-01'
+  link: https://onlinelibrary.wiley.com/doi/10.1002/ana.70010
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1093/europace/euag015
+  title: Deep learning to predict left ventricular hypertrophy from the electrocardiogram
+  authors:
+  - Hafiz Naderi
+  - Thomas Kaplan
+  - Stefan Van Duijvenboden
+  - Esmeralda Ruiz Pujadas
+  - Nay Aung
+  - C Anwar A Chahal
+  - Karim Lekadir
+  - Bishwas Chamling
+  - "Marcus D\xF6rr"
+  - Marcello R P Markus
+  - Steffen E Petersen
+  - "Julia Ram\xEDrez"
+  - Patricia B Munroe
+  publisher: Europace
+  date: '2026-02-03'
+  link: https://academic.oup.com/europace/article/doi/10.1093/europace/euag015/8441735
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1093/ehjimp/qyaf168
+  title: Cardiac magnetic resonance characteristics and prognostic associations of
+    hypertension-mediated left ventricular hypertrophy
+  authors:
+  - Hafiz Naderi
+  - Stefan Van Duijvenboden
+  - "Julia Ram\xEDrez"
+  - Sucharita Chadalavada
+  - Elisa Rauseo
+  - Nay Aung
+  - Steffen E Petersen
+  - Patricia B Munroe
+  publisher: European Heart Journal - Imaging Methods and Practice
+  date: '2026-01-01'
+  link: https://academic.oup.com/ehjimp/article/doi/10.1093/ehjimp/qyaf168/8424380
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1093/eurheartj/ehaf530
+  title: 'Identification of plasma protein mediators of blood pressure and cardiovascular
+    disease: what are the next steps?'
+  authors:
+  - Patricia B Munroe
+  - William J Young
+  - "Julia Ram\xEDrez"
+  publisher: European Heart Journal
+  date: '2026-01-16'
+  link: https://academic.oup.com/eurheartj/article/47/3/343/8280491
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.64898/2026.04.19.26350940
+  title: 'Biventricular cardiac dynamic shape: genetics and cardiometabolic disease
+    associations'
+  authors:
+  - Richard Burns
+  - William J Young
+  - Kulsuma Uddin
+  - Steffen E Petersen
+  - Julia Ramirez
+  - Alistair A Young
+  - Patricia B Munroe
+  publisher: Genetic and Genomic Medicine
+  date: '2026-04-20'
+  link: http://medrxiv.org/lookup/doi/10.64898/2026.04.19.26350940
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1093/eurheartj/ehaf1067
+  title: 'Risk stratification for RYR2-mediated catecholaminergic polymorphic ventricular
+    tachycardia: time to broaden the lens'
+  authors:
+  - William J Young
+  - Pier D Lambiase
+  publisher: European Heart Journal
+  date: '2026-01-09'
+  link: https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf1067/8418280
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1093/europace/euaf103
+  title: Phenotypic expression of rare progressive cardiac conduction disease variants
+    in the general population
+  authors:
+  - Ravi A Shah
+  - "Julia Ram\xEDrez"
+  - Claire Kirkby
+  - Charlotte Ives
+  - Martin Lowe
+  - Patricia B Munroe
+  - Pier D Lambiase
+  - William J Young
+  publisher: Europace
+  date: '2025-06-03'
+  link: https://academic.oup.com/europace/article/doi/10.1093/europace/euaf103/8129738
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1161/ATVBAHA.125.319221
+  title: Using Genomics to Develop Personalized Cardiovascular Treatments
+  authors:
+  - Mihir M. Sanghvi
+  - William J. Young
+  - Hafiz Naderi
+  - Richard Burns
+  - "Julia Ram\xEDrez"
+  - Christopher G. Bell
+  - Patricia B. Munroe
+  publisher: Arteriosclerosis, Thrombosis, and Vascular Biology
+  date: '2025-06-01'
+  link: https://www.ahajournals.org/doi/10.1161/ATVBAHA.125.319221
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1038/s44161-026-00787-6
+  title: Genetic studies of aortic stenosis provide a broader view of narrowed valves
+  authors:
+  - Mihir M. Sanghvi
+  - Patricia B. Munroe
+  publisher: Nature Cardiovascular Research
+  date: '2026-03-01'
+  link: https://www.nature.com/articles/s44161-026-00787-6
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1161/CIRCGEN.124.004978
+  title: Relationships of Circulating Plasma Metabolites With the QT Interval in a
+    Large Population Cohort
+  authors:
+  - William J. Young
+  - Mihir M. Sanghvi
+  - "Julia Ram\xEDrez"
+  - Michele Orini
+  - Stefan Van Duijvenboden
+  - Helen R. Warren
+  - Andrew Tinker
+  - Pier D. Lambiase
+  - Patricia B. Munroe
+  publisher: 'Circulation: Genomic and Precision Medicine'
+  date: '2025-10-01'
+  link: https://www.ahajournals.org/doi/10.1161/CIRCGEN.124.004978
   plugin: sources.py
   file: sources.yaml
