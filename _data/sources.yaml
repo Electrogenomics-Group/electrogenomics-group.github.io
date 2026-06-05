@@ -73,4 +73,16 @@
   description: "Clinical consequences of coronary artery disease (CAD) are varied [e.g. atrial fibrillation (AF) and heart failure (HF)], and current risk stratification tools are ineffective. In this study, we developed, tested, and validated a model to identify distinct ECG-based morphological clusters of individuals with CAD in an unsupervised manner using short 10 s single-lead ECGs. The main finding of this study is the identification of individuals with CAD mapping to two distinct ECG morphological clusters, of which Cluster 1, relative to Cluster 2, showed a stronger association with both incident and prevalent HF, independently of age, sex, and other clinical variables. These findings hold significant implications for targeted treatment and prevention enabling accessible large-scale screening."
 - id: doi:10.22489/CinC.2023.169
   image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10363763/10363691/10364144/10364144-fig-4-source-large.gif
-
+- id: https://doi.org/10.1016/j.jocmr.2025.101919
+- id: https://doi.org/10.1186/s13148-026-02076-2
+- id: https://doi.org/10.64898/2026.02.23.26346310 
+- id: https://doi.org/10.1002/ana.70010
+- id: https://doi.org/10.1093/europace/euag015
+- id: https://doi.org/10.1093/ehjimp/qyaf168
+- id: https://doi.org/10.1093/eurheartj/ehaf530
+- id: https://doi.org/10.64898/2026.04.19.26350940 
+- id: https://doi.org/10.1093/eurheartj/ehaf1067
+- id: https://doi.org/10.1093/europace/euaf103
+- id: https://doi.org/10.1161/ATVBAHA.125.319221
+- id: https://doi.org/10.1038/s44161-026-00787-6
+- id: https://doi.org/10.1161/CIRCGEN.124.004978
