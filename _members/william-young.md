@@ -8,6 +8,9 @@ group:
 aliases:
   - W. J. Young
   - W. Young
+  - W J. Young
+  - W. J Young
+  - W Young
   - William J. Young
   - William Young
   - Will J. Young

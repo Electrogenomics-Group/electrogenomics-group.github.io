@@ -9,6 +9,10 @@ aliases:
   - P. B. Munroe
   - Patricia Munroe
   - Patricia B. Munroe
+  - P. B Munroe
+  - P B. Munroe
+  - P B Munroe
+  - Patricia B Munroe
 links:
   email: p.b.munroe@qmul.ac.uk
   home-page: https://www.qmul.ac.uk/whri/people/academic-staff/items/munroepatricia.html

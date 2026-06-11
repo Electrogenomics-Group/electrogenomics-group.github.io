@@ -7,6 +7,9 @@ role: pi
 group:
 aliases:
   - P. Lambiase
+  - P Lambiase
+  - P D. Lambiase
+  - P D Lambiase
   
 links:
   email: p.lambiase@ucl.ac.uk

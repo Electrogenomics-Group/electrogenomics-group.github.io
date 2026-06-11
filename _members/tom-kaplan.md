@@ -6,6 +6,7 @@ affiliation: WHRI, QMUL, UK
 role:
 group:
 aliases:
+  - T Kaplan
   - T. Kaplan
   - Tom Kaplan
   - Thomas Kaplan
