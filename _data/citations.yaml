@@ -1588,7 +1588,7 @@
   publisher: Europace
   date: '2026-02-03'
   link: https://academic.oup.com/europace/article/doi/10.1093/europace/euag015/8441735
-  image: images/euag015_ga.jpeg
+  image: images/euag015_ga.https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/europace/28/2/10.1093_europace_euag015/1/m_euag015_ga.jpeg?Expires=1783456366&Signature=IpT2uLw4Oyhw6df2wV~2CSpfwgBl9FjeBVgceq6U2HlA7jlCtpQxII6I6ztiaBFtKNqZbJOvix8-kFdbJnGlK4S3E4h7Q8ufcKkkpGy39iNLjF6HC9kEOHy80fvHTCMRnT1E0AaAfBkHWJwpE-vEE~tvN3cI73u0dYv3LOqDTP3fTT3CXNnXJEU9WssKf7FO4HxL0dXDicNqJYiiayx3hzscVhwkBBE-PrOm3C2Zfr8bIc8mlimt30s0VRhU8ZdpD-ACtKKWOZlkKNx0fb5vc9TML50OHWL8x-1wnLxq8GBXIsPuh1CpC2i-i8~m5Bg6hAhr2If3gRYpl1eIjcFJEA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   description: Left ventricular hypertrophy (LVH) is a strong predictor of cardiovascular
     disease. In this study, we develop a deep learning (DL) model to improve classification
     with external evaluation in the Study of Health in Pomerania (SHIP). We analysed
@@ -1704,6 +1704,7 @@
   publisher: Nature Cardiovascular Research
   date: '2026-03-01'
   link: https://www.nature.com/articles/s44161-026-00787-6
+  image: images/image_10.1038_s44161-026-00787-6.png
   description: 'Aortic stenosis is a common cause of valve disease and has a genetic
     basis. Two complementary papers perform genome-wide association studies: first,
     of aortic stenosis cases, and second, on aortic valve structure and function.
