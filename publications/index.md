@@ -11,7 +11,9 @@ nav:
 
 ## Latest
 
-{% include citation.html lookup="Unsupervised clustering of single-lead electrocardiograms" style="richer" %}
+{% include citation.html lookup="Genetic studies of aortic stenosis provide " style="richer" %}
+
+{% include citation.html lookup="Deep learning to predict left ventricular hypertrophy from the" style="richer" %}
 
 {% include section.html %}
 
