@@ -1,6 +1,14 @@
 #
 # Awards
 
+- title:  Runner-up Annual Conference of the Spanish Society of Biomedical Engineering (CASEIB) 2025
+  subtitle: 'Ángela Hernández'
+  description: 'Awarded Young Investigator runner-up prize (700€) for work on sex- and menopause-specific ECG repolarization patterns at the Conference of the Spanish Society of Biomedical Engineering in Zaragoza (Spain)'
+  image: images/angela-Premios_CASEIB2025_8.jpg
+  group: featured
+  date: 2025-11-21
+  tags:
+      - Award
 
 - title: Runner-up, Young Investigator Award, American College of Cardiology 2025
   subtitle: Mihir Sanghvi
