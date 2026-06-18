@@ -78,7 +78,7 @@
 - id: https://doi.org/10.64898/2026.02.23.26346310 
 - id: https://doi.org/10.1002/ana.70010
 - id: https://doi.org/10.1093/europace/euag015
-  image: images/images_m_euag015_ga.jpeg
+  image: https://raw.githubusercontent.com/Electrogenomics-Group/electrogenomics-group.github.io/refs/heads/main/images/euag015_ga.jpeg
   description: "Left ventricular hypertrophy (LVH) is a strong predictor of cardiovascular disease. In this study, we develop a deep learning (DL) model to improve classification with external evaluation in the Study of Health in Pomerania (SHIP). We analysed 12-lead ECGs of 48 835 participants from the UK Biobank imaging study. In UK Biobank, 717 (1.5%) participants had CMR-derived LVH and the AUROC for the DL model was 0.97. There was modest generalizability of the DL model to 1423 participants in SHIP (AUROC 0.78), with differences in clinical profile, ECG acquisition, and CMR labelling as important factors. Our findings support the feasibility of scalable DL-based screening tools for the prediction of LVH from the ECG, whilst highlighting the need for model development using larger datasets with greater diversity to ensure generalizability."
 - id: https://doi.org/10.1093/ehjimp/qyaf168
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ehjimp/4/1/10.1093_ehjimp_qyaf168/1/m_qyaf168_ga.jpeg?Expires=1783448228&Signature=yI0zh5BMBNvD6z4w~J7tzqqqIHsbn4UdcgYKWLALotFiK-ZoD2syStWC-PwcPlhNCc9-~DE2orz1RdJKl2aE1eFdyMDdwsEHaPLqPNY2OISbUxFke5YjKz9uRmFoAttL1h5-BAFMavGkFApFC-oLv4KqnqT~9eqSXsGnB3nUnBW8xo0r1HaAoxgjge~tb5HHRggvrskRMMzTKhdwVhngdy8XkeX~WIerZ5KSHZZ9fNMLqDQkX9HMwBWXy7lCiTd8SppsaLPChZ03NbHJ7igoKicWJVNdDvhiOoyHYbTpBxAqZBteccmpFLyPtHRRNPgexzLdlsgMfs7yIypBDLU2UQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -92,7 +92,7 @@
 - id: https://doi.org/10.1161/ATVBAHA.125.319221
   image: https://www.ahajournals.org/cms/10.1161/ATVBAHA.125.319221/asset/bec55a41-98cd-411b-927c-84cc6a82c031/assets/graphic/atvbaha.125.319221.fig06.jpg
 - id: https://doi.org/10.1038/s44161-026-00787-6
-  image: images/image_10.1038_s44161-026-00787-6.jpeg
+  image: https://raw.githubusercontent.com/Electrogenomics-Group/electrogenomics-group.github.io/refs/heads/main/images/image_10.1038_s44161-026-00787-6.jpg
   description: "Aortic stenosis is a common cause of valve disease and has a genetic basis. Two complementary papers perform genome-wide association studies: first, of aortic stenosis cases, and second, on aortic valve structure and function. These findings provide a strong foundation for the future development of medical therapy for aortic stenosis."
 - id: https://doi.org/10.1161/CIRCGEN.124.004978
 - id: https://doi.org/10.22489/CinC.2025.339
