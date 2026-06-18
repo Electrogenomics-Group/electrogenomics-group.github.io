@@ -11,7 +11,7 @@ aliases:
 links:
   email: adrian.rodriguez@qmul.ac.uk
   orcid: 0009-0006-1117-7831
-  home-page: https://bsky.app/profile/adrianrodriguezg.bsky.social
+  bluesky: adrianrodriguezg.bsky.social
   
 ---
 
