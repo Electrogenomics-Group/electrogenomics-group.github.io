@@ -1482,17 +1482,6 @@
   date: '2025-03-17'
   link: https://doi.org/g89qg5
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ehjdh/PAP/10.1093_ehjdh_ztaf013/2/m_ztaf013f1.jpeg?Expires=1745918098&Signature=Q~RaYEU2uCmvePPkiNVOBH~oI6M4t3MLvv71k2XGKv8hRazArDeWXraJ-OZF1eGJ4D76bXdthmhWbRPAuwD~~47TZtZl9Q~Twur8zqYcKdooEPtfRgFX~ncxi~vTC7gEVSpTfCXDoPl~hEstN5n5iTl9WsCLM6p7oPhxQxD0~9VnHC2BRFM-7ZSgLAXhYrgvnHRJsIYIc~Lhzl-CIsBCYqV49-P36YMtbDfo3hZYPPrPBpHH6naw33plHp~FlmLUs5i1VlDxqr4JJhId3PoIcr8708dD~GqMyBRinEp4IPDSciUTmdKRjmZUp0-lVMnAtC1ZOSic~bG2zG5Jqr-SFw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  description: "Clinical consequences of coronary artery disease (CAD) are varied\
-    \ [e.g. atrial fibrillation (AF) and heart failure (HF)], and current risk stratification\
-    \ tools are ineffective. In this study, we developed, tested, and validated a\
-    \ model to identify distinct ECG-based morphological clusters of individuals with\
-    \ CAD in an unsupervised manner using short 10\u2005s single-lead ECGs. The main\
-    \ finding of this study is the identification of individuals with CAD mapping\
-    \ to two distinct ECG morphological clusters, of which Cluster 1, relative to\
-    \ Cluster 2, showed a stronger association with both incident and prevalent HF,\
-    \ independently of age, sex, and other clinical variables. These findings hold\
-    \ significant implications for targeted treatment and prevention enabling accessible\
-    \ large-scale screening."
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.22489/CinC.2023.169
@@ -1599,7 +1588,19 @@
   publisher: Europace
   date: '2026-02-03'
   link: https://academic.oup.com/europace/article/doi/10.1093/europace/euag015/8441735
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/europace/28/2/10.1093_europace_euag015/1/m_euag015_ga.jpeg?Expires=1783456366&Signature=IpT2uLw4Oyhw6df2wV~2CSpfwgBl9FjeBVgceq6U2HlA7jlCtpQxII6I6ztiaBFtKNqZbJOvix8-kFdbJnGlK4S3E4h7Q8ufcKkkpGy39iNLjF6HC9kEOHy80fvHTCMRnT1E0AaAfBkHWJwpE-vEE~tvN3cI73u0dYv3LOqDTP3fTT3CXNnXJEU9WssKf7FO4HxL0dXDicNqJYiiayx3hzscVhwkBBE-PrOm3C2Zfr8bIc8mlimt30s0VRhU8ZdpD-ACtKKWOZlkKNx0fb5vc9TML50OHWL8x-1wnLxq8GBXIsPuh1CpC2i-i8~m5Bg6hAhr2If3gRYpl1eIjcFJEA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/euag015_ga.jpeg
+  description: Left ventricular hypertrophy (LVH) is a strong predictor of cardiovascular
+    disease. In this study, we develop a deep learning (DL) model to improve classification
+    with external evaluation in the Study of Health in Pomerania (SHIP). We analysed
+    12-lead ECGs of 48 835 participants from the UK Biobank imaging study. The dataset
+    was split into a training set (70%), validation set (15%), and test set (15%)
+    for performance evaluation. In UK Biobank, 717 (1.5%) participants had CMR-derived
+    LVH and the AUROC for the DL model was 0.97. There was modest generalizability
+    of the DL model to 1423 participants in SHIP (AUROC 0.78), with differences in
+    clinical profile, ECG acquisition, and CMR labelling as important factors. Our
+    findings support the feasibility of scalable DL-based screening tools for the
+    prediction of LVH from the ECG, whilst highlighting the need for model development
+    using larger datasets with greater diversity to ensure generalizability.
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1093/ehjimp/qyaf168
@@ -1703,6 +1704,11 @@
   publisher: Nature Cardiovascular Research
   date: '2026-03-01'
   link: https://www.nature.com/articles/s44161-026-00787-6
+  description: 'Aortic stenosis is a common cause of valve disease and has a genetic
+    basis. Two complementary papers perform genome-wide association studies: first,
+    of aortic stenosis cases, and second, on aortic valve structure and function.
+    These findings provide a strong foundation for the future development of medical
+    therapy for aortic stenosis.'
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1161/CIRCGEN.124.004978
