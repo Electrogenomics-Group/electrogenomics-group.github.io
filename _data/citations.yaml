@@ -1588,7 +1588,7 @@
   publisher: Europace
   date: '2026-02-03'
   link: https://academic.oup.com/europace/article/doi/10.1093/europace/euag015/8441735
-  image: images/images_m_euag015_ga.jpeg
+  image: https://raw.githubusercontent.com/Electrogenomics-Group/electrogenomics-group.github.io/refs/heads/main/images/euag015_ga.jpeg
   description: Left ventricular hypertrophy (LVH) is a strong predictor of cardiovascular
     disease. In this study, we develop a deep learning (DL) model to improve classification
     with external evaluation in the Study of Health in Pomerania (SHIP). We analysed
@@ -1703,7 +1703,7 @@
   publisher: Nature Cardiovascular Research
   date: '2026-03-01'
   link: https://www.nature.com/articles/s44161-026-00787-6
-  image: images/image_10.1038_s44161-026-00787-6.jpeg
+  image: https://raw.githubusercontent.com/Electrogenomics-Group/electrogenomics-group.github.io/refs/heads/main/images/image_10.1038_s44161-026-00787-6.jpg
   description: 'Aortic stenosis is a common cause of valve disease and has a genetic
     basis. Two complementary papers perform genome-wide association studies: first,
     of aortic stenosis cases, and second, on aortic valve structure and function.
