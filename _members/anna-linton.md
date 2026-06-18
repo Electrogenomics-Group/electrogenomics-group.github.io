@@ -1,6 +1,6 @@
 ---
 name: Anna Linton
-image: images/team/photo_AL.jpg
+image: images/team/photo_AL.jpeg
 description: Postdoctoral Researcher
 affiliation: WHRI, QMUL, UK
 role:
