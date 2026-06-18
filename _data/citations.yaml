@@ -1723,3 +1723,20 @@
   link: https://www.ahajournals.org/doi/10.1161/CIRCGEN.124.004978
   plugin: sources.py
   file: sources.yaml
+- id: https://doi.org/10.22489/CinC.2025.339
+  title: Sex- and Menopause-Specific ECG Repolarization Patterns
+  authors:
+  - Angela Hernandez Mendoza
+  - Josseline Nicole Madrid
+  - Neurys Gomez
+  - "Carlos S\xE1nchez"
+  - Patricia Munroe
+  - Alejandro Sanz
+  - "Ana Minchol\xE9"
+  - "Julia Ram\xEDrez"
+  publisher: ''
+  date: '2025-12-12'
+  link: https://www.cinc.org/archives/2025/pdf/CinC2025-339.pdf
+  image: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkCN1MWEUh4jrp2saBrbI_3fNERrHcIgehR0Zrf8usfZfXdnFU
+  plugin: sources.py
+  file: sources.yaml
