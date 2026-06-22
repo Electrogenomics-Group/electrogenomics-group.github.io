@@ -1500,9 +1500,19 @@
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1016/j.jocmr.2025.101919
-  title: ''
-  authors: []
-  publisher: ''
+  title: Relationships between heart shape, function, and disease in 38,858 UK biobank
+    participants
+  authors:
+  - Richard Burns
+  - Laura Dal Toso
+  - "Charl\xE8ne A Mauger"
+  - Alireza Sojoudi
+  - Avan Suinesiaputra
+  - Steffen E Petersen
+  - "Julia Ram\xEDrez"
+  - Patricia B Munroe
+  - Alistair A Young
+  publisher: J Cardiovasc Magn Reson.
   date: ''
   link: https://doi.org/10.1016/j.jocmr.2025.101919
   image: https://ars.els-cdn.com/content/image/1-s2.0-S109766472500081X-ga1.jpg
