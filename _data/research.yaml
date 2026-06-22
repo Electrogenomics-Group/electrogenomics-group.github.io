@@ -1,5 +1,14 @@
 #
 # Awards
+#
+- title: Invited Speaker, ANMCO 2026 (Rimini, Italy)
+  subtitle: "Julia Ramírez"
+  description: "Invited speaker at the 57th ANMCO National Congress (Associazione Nazionale Cardiologi Ospedalieri), with the title 'Artificial Intelligence in Cardiology: Algorithms and Clinical Applications'."
+  image: images/julia-anmco_2026.jpeg
+  group: featured
+  date: 2026-05-07
+  tags:
+    - Award
 
 - title:  Runner-up Annual Conference of the Spanish Society of Biomedical Engineering (CASEIB) 2025
   subtitle: 'Ángela Hernández'
