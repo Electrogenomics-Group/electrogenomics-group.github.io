@@ -1746,3 +1746,137 @@
   image: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkCN1MWEUh4jrp2saBrbI_3fNERrHcIgehR0Zrf8usfZfXdnFU
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1093/eurjpc/zwag058
+  title: 'Cuffless Blood Pressure Monitoring Devices: Technical Foundations and Clinical
+    Implications'
+  authors:
+  - Gianfranco Parati
+  - Juan Eugenio Ochoa
+  - Ana Abreu
+  - Sofie Brouwers
+  - Rosa Maria Bruno
+  - Enrico G Caiani
+  - Ruben Casado-Arroyo
+  - Matthijs Cluitmans
+  - Constantinos H Davos
+  - Raffaele De Lucia
+  - Polychronis Dilaveris
+  - Federico Guerra
+  - Henner Hanssen
+  - Magnus T Jensen
+  - Thomas Kahan
+  - Harold Kemps
+  - Paul Leeson
+  - Emanuela T Locati
+  - Joost Lumens
+  - Felix Mahfoud
+  - "Jos\xE9 Millet Roig"
+  - Stefano Omboni
+  - Theodoros G Papaioannou
+  - Pyotr G Platonov
+  - Julia Ramirez
+  - Mark J Schuuring
+  - Isabella Sudano
+  - Roderick Willem Treskes
+  - Alberto Avolio
+  - Paolo Castiglioni
+  publisher: European Journal of Preventive Cardiology
+  date: '2026-02-25'
+  link: https://doi.org/hbqxxq
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1093/europace/euaf071
+  title: 'State of the Art of Artificial Intelligence in Clinical Electrophysiology
+    in 2025: A Scientific Statement of the European Heart Rhythm Association (EHRA)
+    of the ESC, the Heart Rhythm Society (HRS), and the ESC Working Group on E-Cardiology'
+  authors:
+  - Emma Svennberg
+  - Janet K Han
+  - Enrico G Caiani
+  - Sandy Engelhardt
+  - Sabine Ernst
+  - Paul Friedman
+  - Rodrigue Garcia
+  - Hamid Ghanbari
+  - Gerhard Hindricks
+  - Sharon H Man
+  - "Jos\xE9 Millet"
+  - Sanjiv M Narayan
+  - "G Andr\xE9 Ng"
+  - Peter A Noseworthy
+  - Fleur V Y Tjong
+  - "Julia Ram\xEDrez"
+  - Jagmeet P Singh
+  - Natalia Trayanova
+  - David Duncker
+  - Jacob Tfelt Hansen
+  - Joseph Barker
+  - Ruben Casado-Arroyo
+  - Neal A Chatterjee
+  - Giulio Conte
+  - "S\xF8ren Z\xF6ga Diederichsen"
+  - Dominik Linz
+  - Arun Umesh Mahtani
+  - Alessandro Zorzi
+  publisher: Europace
+  date: '2025-05-07'
+  link: https://academic.oup.com/europace/article/doi/10.1093/europace/euaf071/8100285
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1016/j.rec.2026.05.005
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/10.1016/j.rec.2026.05.005
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1109/tbme.2024.3404254
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://ieeexplore.ieee.org/document/10536600/
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1109/tbme.2025.3607144
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://ieeexplore.ieee.org/document/11153048/
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1016/j.cma.2025.117933
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/10.1016/j.cma.2025.117933
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1136/heartjnl-2024-324875
+  title: Leucocyte telomere length and conduction system ageing
+  authors:
+  - Stefan Van Duijvenboden
+  - Christopher P Nelson
+  - Zahra Raisi-Estabragh
+  - Julia Ramirez
+  - Michele Orini
+  - Qingning Wang
+  - Nay Aung
+  - Veryan Codd
+  - Svetlana Stoma
+  - Elias Allara
+  - Angela M Wood
+  - Emanuele Di Angelantonio
+  - John Danesh
+  - Nicholas C Harvey
+  - Steffen E Petersen
+  - Patricia B Munroe
+  - Nilesh J Samani
+  publisher: Heart
+  date: '2025-04-01'
+  link: https://heart.bmj.com/lookup/doi/10.1136/heartjnl-2024-324875
+  plugin: sources.py
+  file: sources.yaml
