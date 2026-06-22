@@ -114,6 +114,17 @@
 - id: https://doi.org/10.1109/tbme.2024.3404254
 - id: https://doi.org/10.1109/tbme.2025.3607144
 - id: https://doi.org/10.1016/j.jocmr.2025.101919
+  title: "Relationships between heart shape, function, and disease in 38,858 UK biobank participants"
+  publisher: "J Cardiovasc Magn Reson."
+  authors:
+  - Richard Burns
+  - Laura Dal Toso
+  - "Charlène A Mauger"
+  - Alireza Sojoudi
+  - Avan Suinesiaputra
+  - Steffen E Petersen
+  - Julia Ramírez
+  - Patricia B Munroe
+  - Alistair A Young
 - id: https://doi.org/10.1016/j.cma.2025.117933
 - id: https://doi.org/10.1136/heartjnl-2024-324875
-
