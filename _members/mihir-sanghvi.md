@@ -7,6 +7,7 @@ role:
 group:
 aliases:
   - M. Sanghvi
+  - M Sanghvi
   - Mihir Sanghvi
 links:
   email: m.sanghvi@qmul.ac.uk
