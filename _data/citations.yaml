@@ -1890,3 +1890,23 @@
   link: https://heart.bmj.com/lookup/doi/10.1136/heartjnl-2024-324875
   plugin: sources.py
   file: sources.yaml
+- id: https://doi.org/10.1161/JAHA.125.048388
+  title: "Risk Stratification of Patients With Type 2 Long\u2010QT Syndrome Through\
+    \ Analysis of T\u2010Wave Morphology"
+  authors:
+  - "Neurys G\xF3mez"
+  - "Julia Ram\xEDrez"
+  - Aleksei A. Savelev
+  - Pia Dahlberg
+  - Anneli Svensson
+  - Nina Larsson
+  - "Erik Ljungstr\xF6m"
+  - Uzma Chaudhry
+  - "Juan Pablo Mart\xEDnez"
+  - Pablo Laguna
+  - Pyotr G. Platonov
+  publisher: Journal of the American Heart Association
+  date: '2026-07-07'
+  link: https://www.ahajournals.org/doi/10.1161/JAHA.125.048388
+  plugin: sources.py
+  file: sources.yaml
