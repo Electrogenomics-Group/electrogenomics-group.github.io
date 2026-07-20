@@ -1911,10 +1911,27 @@
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1016/j.jacc.2026.05.022
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'Imaging-Derived Sarcopenic Obesity and Cardiovascular Outcomes: Insights
+    Into Heart Failure Risk and Muscle Biology'
+  authors:
+  - Mihir Sanghvi
+  - Hannah L. Nicholls
+  - Thomas Kaplan
+  - Sucharitha Chadalavada
+  - "Julia Ram\xEDrez"
+  - Tanner Stokes
+  - Changhyun Lim
+  - Jonathan C. Mcleod
+  - Stuart M. Phillips
+  - Bethan E. Phillips
+  - Philip J. Atherton
+  - Mohammed Y. Khanji
+  - Steffen E. Petersen
+  - James A. Timmons
+  - Patricia Munroe
+  - Nay Aung
+  publisher: JACC
+  date: '2026-07-01'
   link: https://doi.org/10.1016/j.jacc.2026.05.022
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0735109726066349-ga1.jpg
   plugin: sources.py
