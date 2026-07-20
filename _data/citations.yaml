@@ -1910,3 +1910,12 @@
   link: https://www.ahajournals.org/doi/10.1161/JAHA.125.048388
   plugin: sources.py
   file: sources.yaml
+- id: https://doi.org/10.1016/j.jacc.2026.05.022
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/10.1016/j.jacc.2026.05.022
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0735109726066349-ga1.jpg
+  plugin: sources.py
+  file: sources.yaml
